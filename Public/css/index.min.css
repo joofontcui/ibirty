@@ -1,0 +1,39 @@
+/* global */
+body{width: 100%;margin: 0;font-family: "Microsoft Yahei"}
+
+/* header */
+.header{width: 100%;height: 100px;}
+.title{width: 1180px;height: 100px;margin:0 auto;}
+.title span{height: 100px;display: inline-block;padding: 30px 0 0 43px;font-size: 24px;background-image: url("./images/web-logo.jpg");background-size: 40px 30px;background-repeat: no-repeat;background-position: 0px 28px;}
+
+/* nav */
+.nav{width: 100%;height: 50px;}
+
+/*navigation*/
+.navigation{width: 1180px;height: 50px;margin:0 auto;}
+.nav-left{height: 50px;display: inline-block;}
+.nav-left span{display: inline-block;padding: 14px;text-align: center;}
+.nav-left-one{display: inline-block;width: 200px;background-color: #F0BF64;color: #fff;}
+
+.nav-right{display: inline-block;float: right;height: 45px;margin: 5px 20px 0 0;}
+.research{display: inline-block;height: 20px;padding: 9px; margin: 0;border: 1px solid #F0BF64;}
+.submit{display: inline-block;float: right;width: 40px;height: 40px;margin:0;background-color: #F0BF64;border: 0px;}
+
+/*runImage*/
+.runImage{width: 100%;height: 500px;background-color: #5D827B;}
+.runImage-in{width: 1180px;height: 500px;margin:0 auto;}
+.runImage-in img{width: 1180px;height: 500px;}
+
+/*delivery 1st*/
+.deOne{width: 100%; height:200px;}
+.deOne-in{width: 1180px;height: 200px;margin:0 auto;}
+.deOne-1,.deOne-2,.deOne-3,.deOne-4,.deOne-5{width: 200px;height:180px; display: inline-block;margin: 16px;}
+.deOne-1 img,.deOne-2 img,.deOne-3 img,.deOne-4 img,.deOne-5 img{width: 200px;height: 120px;}
+.title-main{font-size: 15px;display: block;}
+.title-sub{font-size: 13px;color: #797979; display: block;}
+
+/*delivery 2ed*/
+
+/* delivery 3rd */
+
+/*footer*/

@@ -1,0 +1,32 @@
+*{padding:5px;margin: 5px;font-size:14px;font-family: 微软雅黑;}
+
+.cj-div-top{
+	font-size: 20px;
+}
+
+.cj-div-1{
+	width: 800px;
+	margin-top: 2px;
+	margin-left: 100px;
+	border:1px solid #000;
+}
+
+.cj-div-2{
+	font-size: 20px;
+	color: #FFF;
+	margin-top:20px;
+	margin-left: 100px;
+	margin-bottom: 0px;
+	width: 800px;
+	border:1px solid #000;
+	background-color: #C81623;
+}
+
+.cj-table{
+	align:center;
+	margin-left: 0px;
+}
+
+.cj-div-0{
+	margin-left: 40px;
+}

@@ -1,0 +1,2719 @@
+[ 2017-01-08T09:33:42+08:00 ] 127.0.0.1 /carPart/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.011024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011117s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.022544s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022622s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000618s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000581s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000458s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.014957s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.016746s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000854s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000898s ]
+
+[ 2017-01-08T09:33:44+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Login/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.018938s ]
+INFO: [ route_check ] --END-- [ RunTime:0.019030s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000656s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000748s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010700s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010784s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000378s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000376s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000297s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000420s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001590s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000536s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000576s ]
+
+[ 2017-01-08T09:33:46+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001103s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000536s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000595s ]
+
+[ 2017-01-08T09:34:04+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000833s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000903s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000531s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000602s ]
+
+[ 2017-01-08T09:34:06+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000592s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000665s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000399s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000444s ]
+
+[ 2017-01-08T09:34:09+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000571s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000636s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000389s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000435s ]
+
+[ 2017-01-08T09:34:09+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000593s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000655s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000392s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000436s ]
+
+[ 2017-01-08T09:34:10+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000577s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000639s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000392s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000437s ]
+
+[ 2017-01-08T09:34:36+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000600s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000666s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000441s ]
+
+[ 2017-01-08T12:49:45+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html?is_mark=1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000803s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000876s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000492s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000539s ]
+
+[ 2017-01-08T12:51:22+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html?is_mark=1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000819s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000884s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000466s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000511s ]
+
+[ 2017-01-08T12:51:23+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html?is_mark=1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000592s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000667s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000389s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000434s ]
+
+[ 2017-01-08T12:52:53+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html?is_mark=1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000787s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000857s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000472s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000519s ]
+
+[ 2017-01-08T12:52:54+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html?is_mark=1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000543s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000624s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000419s ]
+
+[ 2017-01-08T12:53:25+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html?is_mark=1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000788s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000855s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000525s ]
+
+[ 2017-01-08T12:53:26+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html?is_mark=1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000588s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000660s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000390s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000435s ]
+
+[ 2017-01-08T12:53:31+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000590s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000654s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000388s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000432s ]
+
+[ 2017-01-08T12:59:07+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000800s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000872s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000449s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000495s ]
+
+[ 2017-01-08T12:59:08+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000559s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000624s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000376s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000419s ]
+
+[ 2017-01-08T12:59:09+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html?is_mark=1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000582s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000653s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000389s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000436s ]
+
+[ 2017-01-08T12:59:10+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000601s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000664s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000384s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000429s ]
+
+[ 2017-01-08T12:59:13+08:00 ] 127.0.0.1 /carPart/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000393s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000457s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006225s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006289s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000368s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000375s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000295s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000424s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001582s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000521s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000561s ]
+
+[ 2017-01-08T12:59:14+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Login/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000585s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000652s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000388s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000435s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.005343s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005394s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000274s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000291s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000221s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000379s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001284s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000471s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000513s ]
+
+[ 2017-01-08T12:59:16+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000540s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000617s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000442s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000490s ]
+
+[ 2017-01-08T12:59:23+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000795s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000863s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000528s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002491s ]
+SQL: SELECT * FROM `think_carpart`  [ RunTime:0.000273s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.039691s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039778s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000491s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000398s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000291s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000437s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001734s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000528s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000572s ]
+
+[ 2017-01-08T12:59:24+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000790s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000858s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000471s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000518s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002423s ]
+SQL: SELECT * FROM `think_carpart`  [ RunTime:0.000269s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014165s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014232s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000493s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000400s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000298s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000440s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001753s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000530s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000575s ]
+
+[ 2017-01-08T13:00:00+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000577s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000644s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000389s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000435s ]
+
+[ 2017-01-08T13:00:41+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000771s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000843s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000498s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000545s ]
+
+[ 2017-01-08T13:01:23+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000782s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000857s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000530s ]
+
+[ 2017-01-08T13:01:24+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000704s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000801s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000477s ]
+
+[ 2017-01-08T13:01:25+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000632s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000707s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000393s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000437s ]
+
+[ 2017-01-08T13:01:46+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000796s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000869s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000474s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000520s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002223s ]
+SQL: SELECT * FROM `think_carpart`  [ RunTime:0.000260s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.018674s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018743s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000511s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000379s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000279s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000453s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001735s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000516s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000558s ]
+
+[ 2017-01-08T13:04:55+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000810s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000881s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000482s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000529s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002421s ]
+SQL: SELECT * FROM `think_carpart`  [ RunTime:0.000238s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.019021s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019086s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000525s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000405s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000302s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000457s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001836s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000545s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000598s ]
+
+[ 2017-01-08T13:04:58+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/SelectCarPart/id/1.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000585s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000656s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000389s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000436s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002309s ]
+NOTIC: [8] Undefined variable: User D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 14 行.
+
+[ 2017-01-08T13:06:47+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/SelectCarPart/id/1.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000856s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000934s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000482s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000529s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002397s ]
+NOTIC: [8] Undefined variable: User D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 14 行.
+
+[ 2017-01-08T13:06:52+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/SelectCarPart/id/1.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000606s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000672s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000382s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000426s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002270s ]
+NOTIC: [8] Undefined variable: User D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 14 行.
+
+[ 2017-01-08T13:07:15+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/SelectCarPart/id/1.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000587s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000656s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000392s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000439s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.039391s ]
+NOTIC: [8] Undefined variable: User D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 14 行.
+
+[ 2017-01-08T13:10:16+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/SelectCarPart/id/1.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000776s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000842s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000548s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000606s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002265s ]
+NOTIC: [8] Undefined variable: Model D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 13 行.
+
+[ 2017-01-08T13:11:04+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/SelectCarPart/id/1.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000789s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000854s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000490s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000537s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002333s ]
+NOTIC: [8] Undefined variable: User D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 13 行.
+
+[ 2017-01-08T13:12:07+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/SelectCarPart/id/1.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000600s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000673s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000403s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000449s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002265s ]
+
+[ 2017-01-08T13:13:21+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/SelectCarPart/id/1.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000815s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000880s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000465s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000531s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002250s ]
+SQL: SELECT * FROM `think_carpart` WHERE ( id=1 )  [ RunTime:0.000320s ]
+ERR: 模板不存在[./App/Tpl/Index/Home_SelectCarPart.html]
+
+[ 2017-01-08T13:13:42+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/SelectCarPart/id/1.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000787s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000854s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000474s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000520s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002362s ]
+SQL: SELECT * FROM `think_carpart` WHERE ( id=1 )  [ RunTime:0.000296s ]
+NOTIC: [8] Use of undefined constant Index - assumed 'Index' D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 14 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014014s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014075s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000450s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000390s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000297s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000436s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001692s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000552s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000599s ]
+
+[ 2017-01-08T13:14:32+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/SelectCarPart/id/1.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000587s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000654s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000409s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000456s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002322s ]
+SQL: SELECT * FROM `think_carpart` WHERE ( id=1 )  [ RunTime:0.000367s ]
+NOTIC: [8] Use of undefined constant Index - assumed 'Index' D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 14 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013980s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014041s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000500s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000398s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000301s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000439s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001758s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000529s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000573s ]
+
+[ 2017-01-08T13:14:34+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/SelectCarPart/id/1.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000584s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000651s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000391s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000438s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002553s ]
+SQL: SELECT * FROM `think_carpart` WHERE ( id=1 )  [ RunTime:0.000339s ]
+NOTIC: [8] Use of undefined constant Index - assumed 'Index' D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 14 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013582s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013635s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000356s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000301s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000205s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000344s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001324s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000448s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000490s ]
+
+[ 2017-01-08T13:14:43+08:00 ] 127.0.0.1 /carPart/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000402s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000467s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.005473s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005539s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000289s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000296s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000203s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000349s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001250s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000436s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000475s ]
+
+[ 2017-01-08T13:14:45+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Login/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000574s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000639s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000388s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000438s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.005256s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005309s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000287s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000345s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000221s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000352s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001327s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000465s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000508s ]
+
+[ 2017-01-08T13:14:47+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000588s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000655s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000419s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000465s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002726s ]
+SQL: SELECT * FROM `think_carpart`  [ RunTime:0.000412s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013597s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013663s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000404s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000324s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000211s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000357s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001415s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000446s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000501s ]
+
+[ 2017-01-08T13:14:51+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/SelectCarPart/id/1.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000596s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000664s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000385s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000441s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002250s ]
+SQL: SELECT * FROM `think_carpart` WHERE ( id=1 )  [ RunTime:0.000305s ]
+NOTIC: [8] Use of undefined constant Index - assumed 'Index' D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 14 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013925s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013998s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000373s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000304s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000210s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000346s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001349s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000434s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000477s ]
+
+[ 2017-01-08T13:16:12+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/SelectCarPart/id/1.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000804s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000872s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000509s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000556s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002287s ]
+SQL: SELECT * FROM `think_carpart` WHERE ( `id` = 2 )  [ RunTime:0.000278s ]
+NOTIC: [8] Use of undefined constant Index - assumed 'Index' D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 15 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014448s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014503s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000451s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000425s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000298s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000431s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001725s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000524s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000568s ]
+
+[ 2017-01-08T13:16:41+08:00 ] 127.0.0.1 /carPart/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000619s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000685s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006126s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006189s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000397s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000383s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000301s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000434s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001632s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000527s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000567s ]
+
+[ 2017-01-08T13:16:43+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Login/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000688s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000763s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000668s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000734s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007942s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008043s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000390s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000417s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000284s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000496s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001757s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000657s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000715s ]
+
+[ 2017-01-08T13:16:45+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000575s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000639s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000457s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000513s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002523s ]
+SQL: SELECT * FROM `think_carpart`  [ RunTime:0.000241s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013680s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013741s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000381s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000307s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000212s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000354s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001383s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000447s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000490s ]
+
+[ 2017-01-08T13:16:49+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/SelectCarPart/id/3.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000589s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000657s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000380s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000425s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.039532s ]
+SQL: SELECT * FROM `think_carpart` WHERE ( `id` = 3 )  [ RunTime:0.000292s ]
+NOTIC: [8] Use of undefined constant Index - assumed 'Index' D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 15 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013401s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013460s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000363s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000303s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000209s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000349s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001346s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000459s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000503s ]
+
+[ 2017-01-08T13:18:08+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/SelectCarPart/id/3.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000619s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000695s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000413s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000464s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002327s ]
+SQL: SELECT * FROM `think_carpart` WHERE ( `id` = 3 )  [ RunTime:0.000227s ]
+NOTIC: [8] Use of undefined constant Index - assumed 'Index' D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 18 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013615s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013677s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000373s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000306s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000216s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000346s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001357s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000444s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000489s ]
+
+[ 2017-01-08T13:18:14+08:00 ] 127.0.0.1 /carPart/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000616s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000679s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006468s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006539s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000400s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000381s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000297s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000429s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001624s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000529s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000568s ]
+
+[ 2017-01-08T13:18:15+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Login/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000680s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000745s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000416s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.005206s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005255s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000269s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000283s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000204s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000328s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001199s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000667s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000735s ]
+
+[ 2017-01-08T13:18:17+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000626s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000707s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000456s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002317s ]
+SQL: SELECT * FROM `think_carpart`  [ RunTime:0.000414s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013863s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013929s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000404s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000305s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000204s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000352s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001385s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000453s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000512s ]
+
+[ 2017-01-08T13:18:21+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/SelectCarPart/id/4.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000585s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000656s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000438s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.021000s ]
+SQL: SELECT * FROM `think_carpart` WHERE ( `id` = 4 )  [ RunTime:0.000220s ]
+NOTIC: [8] Use of undefined constant Index - assumed 'Index' D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 18 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013405s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013462s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000374s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000316s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000210s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000347s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001370s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000438s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000482s ]
+
+[ 2017-01-08T13:21:48+08:00 ] 127.0.0.1 /carPart/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000596s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000661s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006130s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006192s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000388s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000401s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000300s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000434s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001646s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000541s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000581s ]
+
+[ 2017-01-08T13:21:50+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Login/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000724s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000806s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000560s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000643s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.005387s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005440s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000284s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000294s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000220s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000362s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001270s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000449s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000489s ]
+
+[ 2017-01-08T13:21:52+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000564s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000625s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000497s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000560s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002246s ]
+SQL: SELECT * FROM `think_carpart`  [ RunTime:0.000394s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013350s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013408s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000390s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000310s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000212s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000354s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001382s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000443s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000498s ]
+
+[ 2017-01-08T13:21:56+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/SelectCarPart/id/4.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000970s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001060s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000385s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000430s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002525s ]
+NOTIC: [8] Undefined variable: condition D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 44 行.
+SQL: SELECT * FROM `think_carpart`  [ RunTime:0.000256s ]
+NOTIC: [8] Use of undefined constant Index - assumed 'Index' D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 45 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013733s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013789s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000382s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000301s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000201s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000344s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001341s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000434s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000486s ]
+
+[ 2017-01-08T13:22:31+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000597s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000668s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000391s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000437s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002470s ]
+SQL: SELECT * FROM `think_carpart`  [ RunTime:0.000361s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013449s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013511s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000404s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000316s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000209s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000355s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001404s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000454s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000509s ]
+
+[ 2017-01-08T13:22:35+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/SelectCarPart/is_pay/1.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000817s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000884s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000453s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000497s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.003458s ]
+SQL: SELECT * FROM `think_carpart` WHERE ( `is_pay` = 1 )  [ RunTime:0.000278s ]
+NOTIC: [8] Use of undefined constant Index - assumed 'Index' D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 45 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014063s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014127s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000491s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000397s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000298s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000439s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001746s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000550s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000593s ]
+
+[ 2017-01-08T13:30:20+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/SelectCarPart/is_pay/1.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000793s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000858s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000473s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000519s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.077617s ]
+SQL: SELECT * FROM `think_carpart` WHERE ( `is_pay` = 1 )  [ RunTime:0.000289s ]
+NOTIC: [8] Use of undefined constant Index - assumed 'Index' D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 45 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 431 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014620s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014673s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000494s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000403s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000301s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000441s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001757s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000539s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000593s ]
+
+[ 2017-01-08T13:32:24+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/SelectCarPart/is_pay/1.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000798s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000873s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000522s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002386s ]
+SQL: SELECT * FROM `think_carpart` WHERE ( `is_pay` = 1 )  [ RunTime:0.000245s ]
+NOTIC: [8] Use of undefined constant Index - assumed 'Index' D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 45 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: begin_time - Array D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 428 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 431 行.
+NOTIC: [8] Undefined index: begin_time - Array D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 428 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 431 行.
+NOTIC: [8] Undefined index: begin_time - Array D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 428 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 431 行.
+NOTIC: [8] Undefined index: begin_time - Array D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 428 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 431 行.
+NOTIC: [8] Undefined index: begin_time - Array D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 428 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 431 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014791s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014845s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000503s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000408s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000305s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000518s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001851s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000550s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000604s ]
+
+[ 2017-01-08T13:47:21+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/SelectCarPart/is_pay/1.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000809s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000877s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000495s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000542s ]
+
+[ 2017-01-08T13:47:24+08:00 ] 127.0.0.1 /carPart/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000404s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000474s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006263s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006322s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000374s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000379s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000301s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000431s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001609s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000531s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000571s ]
+
+[ 2017-01-08T13:47:25+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Login/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000586s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000650s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000400s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000445s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.005338s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005386s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000278s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000291s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000212s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000334s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001225s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000445s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000485s ]
+
+[ 2017-01-08T13:47:27+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000592s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000661s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000398s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000444s ]
+
+[ 2017-01-08T13:47:43+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000803s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000870s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000531s ]
+
+[ 2017-01-08T13:48:20+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000830s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000899s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000523s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000596s ]
+
+[ 2017-01-08T13:48:22+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000565s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000631s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000408s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000451s ]
+
+[ 2017-01-08T13:48:37+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000597s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000663s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000396s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000443s ]
+
+[ 2017-01-08T13:49:17+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000819s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000888s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000531s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002568s ]
+SQL: SELECT * FROM `think_carpart`  [ RunTime:0.000349s ]
+NOTIC: [8] Trying to get property of non-object D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 5 行.
+NOTIC: [8] Trying to get property of non-object D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 6 行.
+
+[ 2017-01-08T13:51:28+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000878s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000955s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000496s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000548s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002479s ]
+SQL: SELECT * FROM `think_carpart`  [ RunTime:0.000249s ]
+NOTIC: [8] Trying to get property of non-object D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 5 行.
+NOTIC: [8] Trying to get property of non-object D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 6 行.
+
+[ 2017-01-08T13:51:31+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000614s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000691s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000396s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000444s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002446s ]
+SQL: SELECT * FROM `think_carpart`  [ RunTime:0.000336s ]
+NOTIC: [8] Trying to get property of non-object D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 5 行.
+NOTIC: [8] Trying to get property of non-object D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 6 行.
+
+[ 2017-01-08T13:53:38+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000752s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000830s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000462s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000517s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002358s ]
+SQL: SELECT * FROM `think_carpart`  [ RunTime:0.000384s ]
+NOTIC: [8] Trying to get property of non-object D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 5 行.
+NOTIC: [8] Trying to get property of non-object D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 6 行.
+
+[ 2017-01-08T14:01:09+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000829s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000900s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000530s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000587s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002367s ]
+SQL: SELECT * FROM `think_carpart`  [ RunTime:0.000389s ]
+NOTIC: [8] Trying to get property of non-object D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 5 行.
+NOTIC: [8] Trying to get property of non-object D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 6 行.
+NOTIC: [2] Attempt to assign property of non-object D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 7 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: alltime D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 428 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: alltime D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 428 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: alltime D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 428 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: alltime D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 428 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: alltime D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 428 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: alltime D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 428 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: alltime D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 428 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: alltime D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 428 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: alltime D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 428 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014881s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014934s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000516s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000405s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000301s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000445s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001786s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000545s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000589s ]
+
+[ 2017-01-08T14:01:15+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000836s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000904s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000526s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002255s ]
+SQL: SELECT * FROM `think_carpart`  [ RunTime:0.000377s ]
+NOTIC: [8] Trying to get property of non-object D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 5 行.
+NOTIC: [8] Trying to get property of non-object D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 6 行.
+NOTIC: [2] Attempt to assign property of non-object D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 7 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: alltime D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 428 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: alltime D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 428 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: alltime D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 428 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: alltime D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 428 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: alltime D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 428 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: alltime D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 428 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: alltime D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 428 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: alltime D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 428 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: alltime D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 428 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014725s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014779s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000508s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000395s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000292s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000439s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001753s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000531s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000572s ]
+
+[ 2017-01-08T14:01:36+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000589s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000655s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000426s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000470s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002340s ]
+SQL: SELECT * FROM `think_carpart`  [ RunTime:0.000465s ]
+NOTIC: [8] Trying to get property of non-object D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 5 行.
+NOTIC: [8] Trying to get property of non-object D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 6 行.
+NOTIC: [2] Attempt to assign property of non-object D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 7 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013881s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013932s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000419s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000311s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000214s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000371s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001437s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000446s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000491s ]
+
+[ 2017-01-08T14:01:59+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000579s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000645s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000389s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000436s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002248s ]
+SQL: SELECT * FROM `think_carpart`  [ RunTime:0.000378s ]
+NOTIC: [8] Trying to get property of non-object D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 5 行.
+NOTIC: [8] Trying to get property of non-object D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 6 行.
+NOTIC: [2] Attempt to assign property of non-object D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 7 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014088s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014141s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000428s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000319s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000214s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000356s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001442s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000443s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000486s ]
+
+[ 2017-01-08T14:03:24+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000802s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000872s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000465s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000511s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002357s ]
+SQL: SELECT * FROM `think_carpart`  [ RunTime:0.000357s ]
+NOTIC: [8] Trying to get property of non-object D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 5 行.
+NOTIC: [8] Trying to get property of non-object D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 6 行.
+NOTIC: [2] Attempt to assign property of non-object D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 7 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014343s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014396s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000487s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000398s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000293s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000439s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001746s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000541s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000586s ]
+
+[ 2017-01-08T14:08:22+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000909s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000997s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000466s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000523s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.048575s ]
+SQL: SELECT * FROM `think_carpart`  [ RunTime:0.000426s ]
+NOTIC: [8] Trying to get property of non-object D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 5 行.
+NOTIC: [8] Trying to get property of non-object D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 6 行.
+NOTIC: [2] Attempt to assign property of non-object D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 7 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014696s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014750s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000522s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000412s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000310s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000450s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001823s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000549s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000593s ]
+
+[ 2017-01-08T14:10:21+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000789s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000860s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000468s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000515s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002358s ]
+SQL: SELECT * FROM `think_carpart`  [ RunTime:0.000361s ]
+NOTIC: [8] Trying to get property of non-object D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 5 行.
+NOTIC: [8] Trying to get property of non-object D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 6 行.
+NOTIC: [2] Attempt to assign property of non-object D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 7 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014382s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014434s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000520s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000385s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000308s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000420s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001759s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000517s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000561s ]
+
+[ 2017-01-08T14:11:39+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000777s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000844s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000458s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000502s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002365s ]
+SQL: SELECT * FROM `think_carpart`  [ RunTime:0.000363s ]
+NOTIC: [8] Trying to get property of non-object D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 5 行.
+NOTIC: [8] Trying to get property of non-object D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 6 行.
+NOTIC: [2] Attempt to assign property of non-object D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 9 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014662s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014716s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000515s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000405s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000307s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000441s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001804s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000576s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000620s ]
+
+[ 2017-01-08T14:12:55+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000817s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000884s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000529s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002708s ]
+SQL: SELECT * FROM `think_carpart`  [ RunTime:0.000373s ]
+NOTIC: [8] Trying to get property of non-object D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 5 行.
+NOTIC: [8] Trying to get property of non-object D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 6 行.
+NOTIC: [8] Undefined variable: strtotime D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 8 行.
+NOTIC: [2] Attempt to assign property of non-object D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 9 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014312s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014362s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000489s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000397s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000296s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000435s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001747s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000535s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000579s ]
+
+[ 2017-01-08T14:13:57+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000841s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000920s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000540s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002336s ]
+SQL: SELECT * FROM `think_carpart`  [ RunTime:0.000351s ]
+NOTIC: [8] Trying to get property of non-object D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 5 行.
+NOTIC: [8] Trying to get property of non-object D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 6 行.
+NOTIC: [8] Undefined variable: strtotime D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 8 行.
+
+[ 2017-01-08T14:15:02+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000804s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000879s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000497s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000548s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002653s ]
+SQL: SELECT * FROM `think_carpart`  [ RunTime:0.000347s ]
+NOTIC: [8] Trying to get property of non-object D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 5 行.
+NOTIC: [8] Trying to get property of non-object D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 6 行.
+NOTIC: [8] Undefined variable: strtotime D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 8 行.
+
+[ 2017-01-08T14:15:15+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000559s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000624s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000420s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002353s ]
+SQL: SELECT * FROM `think_carpart`  [ RunTime:0.000367s ]
+NOTIC: [8] Trying to get property of non-object D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 5 行.
+NOTIC: [8] Trying to get property of non-object D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 6 行.
+NOTIC: [8] Undefined variable: strtotime D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 8 行.
+NOTIC: [2] Attempt to assign property of non-object D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 9 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014417s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014468s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000511s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000373s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000297s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000446s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001745s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000532s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000575s ]
+
+[ 2017-01-08T14:16:15+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000582s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000653s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000388s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000433s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002449s ]
+SQL: SELECT * FROM `think_carpart`  [ RunTime:0.000365s ]
+NOTIC: [8] Trying to get property of non-object D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 5 行.
+NOTIC: [8] Trying to get property of non-object D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 6 行.
+NOTIC: [8] Undefined variable: strtotime D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 8 行.
+NOTIC: [2] Attempt to assign property of non-object D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 9 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014485s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014540s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000508s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000403s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000298s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000438s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001775s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000536s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000580s ]
+
+[ 2017-01-08T14:16:26+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000792s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000861s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000475s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000522s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002156s ]
+SQL: SELECT * FROM `think_carpart`  [ RunTime:0.000361s ]
+NOTIC: [8] Trying to get property of non-object D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 5 行.
+NOTIC: [8] Trying to get property of non-object D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 6 行.
+NOTIC: [8] Undefined variable: strtotime D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 8 行.
+NOTIC: [2] Attempt to assign property of non-object D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 9 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013925s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013980s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000411s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000311s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000213s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000352s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001413s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000444s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000488s ]
+
+[ 2017-01-08T14:17:15+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000779s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000844s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000460s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000506s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002310s ]
+SQL: SELECT * FROM `think_carpart`  [ RunTime:0.000364s ]
+NOTIC: [8] Trying to get property of non-object D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 5 行.
+NOTIC: [8] Trying to get property of non-object D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 6 行.
+NOTIC: [8] Undefined variable: strtotime D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 8 行.
+NOTIC: [2] Attempt to assign property of non-object D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 9 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013710s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013761s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000402s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000308s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000208s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000349s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001395s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000440s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000484s ]
+
+[ 2017-01-08T14:39:16+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000833s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000911s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000489s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000540s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.095482s ]
+SQL: SELECT * FROM `think_carpart`  [ RunTime:0.000408s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014423s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014480s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000511s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000390s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000302s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000449s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001778s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000523s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000567s ]
+
+[ 2017-01-08T14:39:48+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000852s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000931s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000536s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002352s ]
+SQL: SELECT * FROM `think_carpart`  [ RunTime:0.000362s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: all_time * Array D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 430 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: all_time * Array D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 430 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: all_time * Array D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 430 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: all_time * Array D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 430 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: all_time * Array D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 430 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: all_time * Array D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 430 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: all_time * Array D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 430 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: all_time * Array D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 430 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: all_time * Array D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 430 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014427s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014483s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000484s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000393s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000291s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000455s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001739s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000545s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000584s ]
+
+[ 2017-01-08T14:40:05+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000565s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000652s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000378s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000424s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002265s ]
+SQL: SELECT * FROM `think_carpart`  [ RunTime:0.000384s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013887s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013940s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000376s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000329s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000197s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000343s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001355s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000493s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000560s ]
+
+[ 2017-01-08T14:42:23+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000737s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000796s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000472s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000515s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002285s ]
+SQL: SELECT * FROM `think_carpart`  [ RunTime:0.000396s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Use of undefined constant all_time - assumed 'all_time' D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 430 行.
+
+[ 2017-01-08T14:42:47+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000837s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000904s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000489s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000537s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002276s ]
+SQL: SELECT * FROM `think_carpart`  [ RunTime:0.000387s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Trying to get property of non-object D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 430 行.
+NOTIC: [8] Trying to get property of non-object D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 430 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Trying to get property of non-object D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 430 行.
+NOTIC: [8] Trying to get property of non-object D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 430 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Trying to get property of non-object D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 430 行.
+NOTIC: [8] Trying to get property of non-object D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 430 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Trying to get property of non-object D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 430 行.
+NOTIC: [8] Trying to get property of non-object D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 430 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Trying to get property of non-object D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 430 行.
+NOTIC: [8] Trying to get property of non-object D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 430 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Trying to get property of non-object D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 430 行.
+NOTIC: [8] Trying to get property of non-object D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 430 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Trying to get property of non-object D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 430 行.
+NOTIC: [8] Trying to get property of non-object D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 430 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Trying to get property of non-object D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 430 行.
+NOTIC: [8] Trying to get property of non-object D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 430 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Trying to get property of non-object D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 430 行.
+NOTIC: [8] Trying to get property of non-object D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 430 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014387s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014438s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000474s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000393s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000295s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000435s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001714s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000550s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000606s ]
+
+[ 2017-01-08T14:45:07+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000804s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000876s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000535s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002285s ]
+SQL: SELECT * FROM `think_carpart`  [ RunTime:0.000362s ]
+NOTIC: [2] Attempt to assign property of non-object D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 5 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014505s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014557s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000507s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000399s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000309s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000450s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001803s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000549s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000594s ]
+
+[ 2017-01-08T14:47:13+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000807s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000883s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000516s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000563s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002516s ]
+SQL: SELECT * FROM `think_carpart`  [ RunTime:0.000384s ]
+INFO: [ view_parse ] --START--
+
+[ 2017-01-08T14:52:16+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000791s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000858s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000477s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000524s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002333s ]
+SQL: SELECT * FROM `think_carpart`  [ RunTime:0.000358s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014544s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014600s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000498s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000400s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000297s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000440s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001763s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000540s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000584s ]
+
+[ 2017-01-08T14:52:34+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000855s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000929s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000534s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002596s ]
+SQL: SELECT * FROM `think_carpart`  [ RunTime:0.000395s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014430s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014484s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000512s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000412s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000307s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000445s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001805s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000545s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000588s ]
+
+[ 2017-01-08T14:54:06+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000605s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000671s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000432s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000477s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002384s ]
+SQL: SELECT * FROM `think_carpart`  [ RunTime:0.000375s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 431 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013621s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013673s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000400s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000308s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000210s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000354s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001396s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000442s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000487s ]
+
+[ 2017-01-08T14:54:13+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/SelectCarPart/is_pay/1/is_mark/0.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000585s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000653s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000392s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000438s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002417s ]
+SQL: SELECT * FROM `think_carpart` WHERE ( `is_pay` = 1 ) AND ( `is_mark` = 0 )  [ RunTime:0.000245s ]
+NOTIC: [8] Use of undefined constant Index - assumed 'Index' D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 45 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 431 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013633s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013686s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000379s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000318s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000211s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000354s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001380s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000437s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000479s ]
+
+[ 2017-01-08T14:56:09+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/SelectCarPart/is_pay/1/is_mark/0.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000830s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000897s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000525s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002564s ]
+SQL: SELECT * FROM `think_carpart` WHERE ( `is_pay` = 1 ) AND ( `is_mark` = 0 )  [ RunTime:0.000234s ]
+NOTIC: [8] Use of undefined constant Index - assumed 'Index' D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 45 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 431 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014449s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014505s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000510s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000420s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000309s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000457s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001820s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000537s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000579s ]
+
+[ 2017-01-08T14:57:00+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/SelectCarPart/is_pay/1/is_mark/0.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000810s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000882s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000490s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000539s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002477s ]
+SQL: SELECT * FROM `think_carpart` WHERE ( `is_pay` = 1 ) AND ( `is_mark` = 0 )  [ RunTime:0.000238s ]
+NOTIC: [8] Use of undefined constant Index - assumed 'Index' D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 45 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 435 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014400s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014453s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000466s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000401s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000306s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000444s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001733s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000532s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000573s ]
+
+[ 2017-01-08T14:57:28+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/SelectCarPart/is_pay/1/is_mark/0.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000616s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000682s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000410s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000454s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002427s ]
+SQL: SELECT * FROM `think_carpart` WHERE ( `is_pay` = 1 ) AND ( `is_mark` = 0 )  [ RunTime:0.000260s ]
+NOTIC: [8] Use of undefined constant Index - assumed 'Index' D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 45 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 435 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013900s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013963s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000393s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000315s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000214s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000355s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001393s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000439s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000481s ]
+
+[ 2017-01-08T14:57:51+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/SelectCarPart/is_pay/1/is_mark/0.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000584s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000653s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000388s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000432s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002303s ]
+SQL: SELECT * FROM `think_carpart` WHERE ( `is_pay` = 1 ) AND ( `is_mark` = 0 )  [ RunTime:0.000190s ]
+NOTIC: [8] Use of undefined constant Index - assumed 'Index' D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 45 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 435 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013753s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013807s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000391s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000313s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000217s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000355s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001391s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000442s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000482s ]
+
+[ 2017-01-08T14:59:36+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/SelectCarPart/is_pay/1/is_mark/0.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000815s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000885s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000481s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000528s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002475s ]
+SQL: SELECT * FROM `think_carpart` WHERE ( `is_pay` = 1 ) AND ( `is_mark` = 0 )  [ RunTime:0.000204s ]
+NOTIC: [8] Use of undefined constant Index - assumed 'Index' D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 45 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 387 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013623s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013676s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000457s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000396s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000300s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000438s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001709s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000545s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000588s ]
+
+[ 2017-01-08T14:59:59+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/SelectCarPart/is_pay/1/is_mark/0.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000785s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000850s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000449s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000494s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002274s ]
+SQL: SELECT * FROM `think_carpart` WHERE ( `is_pay` = 1 ) AND ( `is_mark` = 0 )  [ RunTime:0.000211s ]
+NOTIC: [8] Use of undefined constant Index - assumed 'Index' D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 45 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 384 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013715s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013768s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000461s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000397s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000309s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000440s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001725s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000536s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000580s ]
+
+[ 2017-01-08T15:00:30+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/SelectCarPart/is_pay/1/is_mark/0.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000586s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000654s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000402s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000455s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002397s ]
+SQL: SELECT * FROM `think_carpart` WHERE ( `is_pay` = 1 ) AND ( `is_mark` = 0 )  [ RunTime:0.000245s ]
+NOTIC: [8] Use of undefined constant Index - assumed 'Index' D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 45 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 384 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013295s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013348s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000387s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000316s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000219s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000352s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001400s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000459s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000500s ]
+
+[ 2017-01-08T15:00:48+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/SelectCarPart/is_pay/1/is_mark/0.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000582s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000649s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000419s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000472s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002385s ]
+SQL: SELECT * FROM `think_carpart` WHERE ( `is_pay` = 1 ) AND ( `is_mark` = 0 )  [ RunTime:0.000188s ]
+NOTIC: [8] Use of undefined constant Index - assumed 'Index' D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 45 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 385 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013241s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013294s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000370s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000314s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000217s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000356s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001373s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000457s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000499s ]
+
+[ 2017-01-08T15:06:34+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/SelectCarPart/is_pay/1/is_mark/0.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000806s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000879s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000487s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000534s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002500s ]
+SQL: SELECT * FROM `think_carpart` WHERE ( `is_pay` = 1 ) AND ( `is_mark` = 0 )  [ RunTime:0.000260s ]
+NOTIC: [8] Use of undefined constant Index - assumed 'Index' D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 45 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 399 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014180s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014236s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000490s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000404s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000310s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000445s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001768s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000533s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000576s ]
+
+[ 2017-01-08T15:09:29+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/SelectCarPart/is_pay/1/is_mark/0.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000799s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000883s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000496s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000541s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002251s ]
+SQL: SELECT * FROM `think_carpart` WHERE ( `is_pay` = 1 ) AND ( `is_mark` = 0 )  [ RunTime:0.000230s ]
+NOTIC: [8] Use of undefined constant Index - assumed 'Index' D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 45 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 401 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014496s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014550s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000486s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000396s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000318s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000448s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001767s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000541s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000584s ]
+
+[ 2017-01-08T15:09:31+08:00 ] 127.0.0.1 /carPart/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000602s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000664s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006011s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006069s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000384s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000367s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000296s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000421s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001581s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000527s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000566s ]
+
+[ 2017-01-08T15:09:42+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Login/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000805s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000880s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000464s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000509s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006077s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006127s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000369s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000378s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000304s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000437s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001603s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000605s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000651s ]
+
+[ 2017-01-08T15:09:45+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000600s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000676s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000514s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000580s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002335s ]
+SQL: SELECT * FROM `think_carpart`  [ RunTime:0.000421s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 401 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 401 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 401 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 401 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 401 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 401 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 401 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 401 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 401 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013712s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013770s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000412s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000318s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000219s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000355s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001431s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000453s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000497s ]
+
+[ 2017-01-08T15:09:46+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000689s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000755s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000402s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000447s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002336s ]
+SQL: SELECT * FROM `think_carpart`  [ RunTime:0.000373s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 401 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 401 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 401 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 401 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 401 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 401 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 401 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 401 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\9337e3e5c8029e025bf2c81df37adaab.php 第 401 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013992s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014045s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000406s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000311s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000218s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000355s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001418s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000446s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000491s ]
+
+[ 2017-01-08T15:09:54+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/SelectCarPart.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000618s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000697s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000508s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000571s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002419s ]
+NOTIC: [8] Undefined variable: condition D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 44 行.
+SQL: SELECT * FROM `think_carpart`  [ RunTime:0.000243s ]
+NOTIC: [8] Use of undefined constant Index - assumed 'Index' D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 45 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 401 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 401 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 401 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 401 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 401 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 401 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 401 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 401 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 401 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013512s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013563s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000404s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000305s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000212s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000362s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001409s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000452s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000494s ]
+
+[ 2017-01-08T15:10:01+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/SelectCarPart.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000589s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000654s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000430s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000474s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002254s ]
+SQL: SELECT * FROM `think_carpart` WHERE ( `is_pay` = 1 )  [ RunTime:0.000201s ]
+NOTIC: [8] Use of undefined constant Index - assumed 'Index' D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 45 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 401 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 401 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 401 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 401 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 401 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013509s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013561s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000398s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000299s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000205s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000362s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001374s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000453s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000505s ]
+
+[ 2017-01-08T15:10:14+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/SelectCarPart.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000579s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000644s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000393s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000436s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002397s ]
+SQL: SELECT * FROM `think_carpart` WHERE ( `is_pay` = 0 )  [ RunTime:0.000229s ]
+NOTIC: [8] Use of undefined constant Index - assumed 'Index' D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 45 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 401 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 401 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 401 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 401 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013331s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013379s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000365s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000313s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000219s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000352s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001361s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000439s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000492s ]
+
+[ 2017-01-08T15:10:20+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/SelectCarPart.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000593s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000669s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000398s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000445s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002429s ]
+SQL: SELECT * FROM `think_carpart` WHERE ( `is_mark` = 0 )  [ RunTime:0.000233s ]
+NOTIC: [8] Use of undefined constant Index - assumed 'Index' D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 45 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 401 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 401 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 401 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 401 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013571s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013622s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000401s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000328s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000225s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000362s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001444s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000453s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000507s ]
+
+[ 2017-01-08T15:10:26+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/SelectCarPart.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000607s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000672s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000382s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000434s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002254s ]
+SQL: SELECT * FROM `think_carpart` WHERE ( `is_mark` = 1 )  [ RunTime:0.000193s ]
+NOTIC: [8] Use of undefined constant Index - assumed 'Index' D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 45 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 401 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 401 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 401 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 401 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 401 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013899s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013952s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000410s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000316s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000218s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000359s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001421s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000448s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000503s ]
+
+[ 2017-01-08T15:10:32+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/SelectCarPart.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000583s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000649s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000393s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000437s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.140025s ]
+SQL: SELECT * FROM `think_carpart` WHERE ( `is_pay` = 0 )  [ RunTime:0.000347s ]
+NOTIC: [8] Use of undefined constant Index - assumed 'Index' D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 45 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 401 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 401 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 401 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 401 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013546s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013597s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000381s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000304s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000217s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000355s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001372s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000447s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000502s ]
+
+[ 2017-01-08T15:10:37+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/SelectCarPart.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000591s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000663s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000396s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000441s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.033700s ]
+SQL: SELECT * FROM `think_carpart` WHERE ( `is_pay` = 1 )  [ RunTime:0.000231s ]
+NOTIC: [8] Use of undefined constant Index - assumed 'Index' D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 45 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 401 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 401 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 401 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 401 行.
+NOTIC: [8] Undefined index: pay D:\PHP\apache\htdocs\carPart\App\Runtime\Cache\Index\7fd2da27081eb539fc5853bb95ba15b6.php 第 401 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013592s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013641s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000374s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000312s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000213s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000353s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001367s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000446s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000499s ]
+
+[ 2017-01-08T15:11:39+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/SelectCarPart.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000591s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000658s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000586s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000631s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002304s ]
+SQL: SELECT * FROM `think_carpart` WHERE ( `is_pay` = 1 )  [ RunTime:0.000237s ]
+NOTIC: [8] Use of undefined constant Index - assumed 'Index' D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 45 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014535s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014596s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000515s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000413s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000310s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000448s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001810s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000558s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000613s ]
+
+[ 2017-01-08T15:11:47+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/SelectCarPart.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000793s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000862s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000462s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000505s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.004633s ]
+SQL: SELECT * FROM `think_carpart` WHERE ( `is_pay` = 0 ) AND ( `is_mark` = 1 )  [ RunTime:0.000258s ]
+NOTIC: [8] Use of undefined constant Index - assumed 'Index' D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 45 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014026s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014089s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000476s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000396s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000299s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000435s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001726s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000526s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000569s ]
+
+[ 2017-01-08T15:12:38+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/SelectCarPart.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000792s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000860s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000477s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000523s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002482s ]
+SQL: SELECT * FROM `think_carpart` WHERE ( `is_pay` = 0 ) AND ( `is_mark` = 1 )  [ RunTime:0.000317s ]
+NOTIC: [8] Use of undefined constant Index - assumed 'Index' D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 45 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.019060s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019118s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000471s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000401s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000298s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000433s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001723s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000521s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000564s ]
+
+[ 2017-01-08T15:12:45+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/SelectCarPart.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000803s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000879s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000479s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000527s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002338s ]
+SQL: SELECT * FROM `think_carpart` WHERE ( `is_pay` = 0 ) AND ( `is_mark` = 1 )  [ RunTime:0.000226s ]
+NOTIC: [8] Use of undefined constant Index - assumed 'Index' D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 45 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014400s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014459s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000468s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000398s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000296s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000432s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001714s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000539s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000581s ]
+
+[ 2017-01-08T15:12:55+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/SelectCarPart.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000800s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000875s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000494s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000550s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002291s ]
+SQL: SELECT * FROM `think_carpart` WHERE ( `is_pay` = 1 ) AND ( `is_mark` = 1 )  [ RunTime:0.000230s ]
+NOTIC: [8] Use of undefined constant Index - assumed 'Index' D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 45 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013909s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013969s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000482s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000404s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000300s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000437s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001747s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000532s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000587s ]
+
+[ 2017-01-08T15:13:01+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/SelectCarPart.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000605s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000674s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000380s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000424s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002220s ]
+SQL: SELECT * FROM `think_carpart` WHERE ( `part_no` = '1' )  [ RunTime:0.000216s ]
+NOTIC: [8] Use of undefined constant Index - assumed 'Index' D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 45 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013263s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013318s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000352s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000307s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000212s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000351s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001338s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000459s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000504s ]
+
+[ 2017-01-08T15:13:13+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/SelectCarPart.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000607s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000674s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000400s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000441s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002455s ]
+SQL: SELECT * FROM `think_carpart` WHERE ( `part_no` = 'A01' )  [ RunTime:0.000227s ]
+NOTIC: [8] Use of undefined constant Index - assumed 'Index' D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 45 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013516s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013573s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000381s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000313s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000211s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000349s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001374s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000433s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000474s ]
+
+[ 2017-01-08T15:41:13+08:00 ] 127.0.0.1 /carPart/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000800s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000891s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008140s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008227s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000512s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000522s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000406s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000591s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002200s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000705s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000761s ]
+
+[ 2017-01-08T15:41:15+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Login/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000907s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000992s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000515s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000575s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008011s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008093s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000416s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000406s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000288s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000453s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001719s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000601s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000655s ]
+
+[ 2017-01-08T15:41:18+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000824s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000925s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000529s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000593s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.002930s ]
+SQL: SELECT * FROM `think_carpart`  [ RunTime:0.000576s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.017865s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017940s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000531s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000406s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000277s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000466s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001848s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000592s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000649s ]
+
+[ 2017-01-08T15:41:34+08:00 ] 127.0.0.1 /carPart/index.php?s=/Index/Home/SelectCarPart.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000804s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000893s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000530s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000590s ]
+SQL: SHOW COLUMNS FROM `think_carpart` [ RunTime:0.019198s ]
+SQL: SELECT * FROM `think_carpart` WHERE ( `is_pay` = 1 ) AND ( `is_mark` = 1 )  [ RunTime:0.000314s ]
+NOTIC: [8] Use of undefined constant Index - assumed 'Index' D:\PHP\apache\htdocs\carPart\App\Lib\Action\Index\HomeAction.class.php 第 45 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.017830s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017906s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000520s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000450s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000283s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000471s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001882s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000599s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000671s ]
+
