@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38a3a4e3-9139-4238-b689-d388d0766b1e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/images/ad_ctr.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/images/alpha.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/images/banner1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/images/banner2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/images/banner3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/images/c_language.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/images/dot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/images/find.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/images/lichuang-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/js/jquery-1.10.2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/js/slider.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/App/Conf/config.php" afterPath="$PROJECT_DIR$/App/Conf/config.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/App/Runtime/Cache/Index/a27fb5fa661747d23aa2120153955e11.php" afterPath="$PROJECT_DIR$/App/Runtime/Cache/Index/a27fb5fa661747d23aa2120153955e11.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/App/Runtime/Logs/17_03_19.log" afterPath="$PROJECT_DIR$/App/Runtime/Logs/17_03_19.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/App/Tpl/Index/Index_index.html" afterPath="$PROJECT_DIR$/App/Tpl/Index/Index_index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public/css/index.min.css" afterPath="$PROJECT_DIR$/Public/css/index.min.css" />
     </list>
@@ -42,16 +29,16 @@
       <file leaf-file-name="Index_index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/App/Tpl/Index/Index_index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="24" column="63" lean-forward="true" selection-start-line="24" selection-start-column="63" selection-end-line="24" selection-end-column="63" />
+            <state relative-caret-position="399">
+              <caret line="93" column="39" lean-forward="false" selection-start-line="93" selection-start-column="24" selection-end-line="93" selection-end-column="39" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#a#0;n#li#2;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#5759#5765#1" expanded="true" />
-                <element signature="e#6067#6073#1" expanded="true" />
-                <element signature="e#6330#6336#1" expanded="true" />
-                <element signature="e#6639#6645#1" expanded="true" />
+                <element signature="e#8547#8553#1" expanded="true" />
+                <element signature="e#8855#8861#1" expanded="true" />
+                <element signature="e#9118#9124#1" expanded="true" />
+                <element signature="e#9427#9433#1" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -60,8 +47,8 @@
       <file leaf-file-name="index.min.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Public/css/index.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+            <state relative-caret-position="347">
+              <caret line="135" column="240" lean-forward="false" selection-start-line="135" selection-start-column="240" selection-end-line="135" selection-end-column="240" />
               <folding />
             </state>
           </provider>
@@ -81,6 +68,12 @@
       <find>submit</find>
       <find>ad_ctr.png</find>
       <find>runImage</find>
+      <find>classifi</find>
+      <find>deOne</find>
+      <find>deFour</find>
+      <find>deOne-in</find>
+      <find>deOne-1</find>
+      <find>deTwo</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -102,10 +95,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="32" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="172" />
+    <option name="y" value="120" />
+    <option name="width" value="1746" />
+    <option name="height" value="960" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -125,6 +118,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -280,7 +274,6 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -369,23 +362,24 @@
       <updated>1489905068113</updated>
       <workItem from="1489905069603" duration="4682000" />
       <workItem from="1490003161884" duration="106000" />
-      <workItem from="1490428878088" duration="15445000" />
+      <workItem from="1490428878088" duration="16002000" />
+      <workItem from="1490612062078" duration="6716000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20233000" />
+    <option name="totallyTimeSpent" value="27506000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="32" width="1936" height="1056" extended-state="6" />
+    <frame x="172" y="120" width="1746" height="960" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13224447" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15515223" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25732484" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19148937" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -411,16 +405,32 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/App/Tpl/Index/Index_index.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#li#2;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#8547#8553#1" expanded="true" />
+            <element signature="e#8855#8861#1" expanded="true" />
+            <element signature="e#9118#9124#1" expanded="true" />
+            <element signature="e#9427#9433#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Tpl/Index/Index_index.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="798">
           <caret line="42" column="36" lean-forward="false" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="36" />
           <folding>
             <element signature="n#style#0;n#img#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#li#2;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#5759#5765#1" expanded="true" />
-            <element signature="e#6067#6073#1" expanded="true" />
-            <element signature="e#6330#6336#1" expanded="true" />
-            <element signature="e#6639#6645#1" expanded="true" />
+            <element signature="e#8547#8553#1" expanded="true" />
+            <element signature="e#8855#8861#1" expanded="true" />
+            <element signature="e#9118#9124#1" expanded="true" />
+            <element signature="e#9427#9433#1" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -441,10 +451,10 @@
             <element signature="n#style#0;n#img#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#li#2;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#5759#5765#1" expanded="true" />
-            <element signature="e#6067#6073#1" expanded="true" />
-            <element signature="e#6330#6336#1" expanded="true" />
-            <element signature="e#6639#6645#1" expanded="true" />
+            <element signature="e#8547#8553#1" expanded="true" />
+            <element signature="e#8855#8861#1" expanded="true" />
+            <element signature="e#9118#9124#1" expanded="true" />
+            <element signature="e#9427#9433#1" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -453,7 +463,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
           <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -461,32 +470,29 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2193">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/App/Tpl/Index/Index_index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="63" lean-forward="true" selection-start-line="24" selection-start-column="63" selection-end-line="24" selection-end-column="63" />
+        <state relative-caret-position="399">
+          <caret line="93" column="39" lean-forward="false" selection-start-line="93" selection-start-column="24" selection-end-line="93" selection-end-column="39" />
           <folding>
             <element signature="n#style#0;n#img#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#li#2;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#5759#5765#1" expanded="true" />
-            <element signature="e#6067#6073#1" expanded="true" />
-            <element signature="e#6330#6336#1" expanded="true" />
-            <element signature="e#6639#6645#1" expanded="true" />
+            <element signature="e#8547#8553#1" expanded="true" />
+            <element signature="e#8855#8861#1" expanded="true" />
+            <element signature="e#9118#9124#1" expanded="true" />
+            <element signature="e#9427#9433#1" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Public/css/index.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+        <state relative-caret-position="347">
+          <caret line="135" column="240" lean-forward="false" selection-start-line="135" selection-start-column="240" selection-end-line="135" selection-end-column="240" />
           <folding />
         </state>
       </provider>

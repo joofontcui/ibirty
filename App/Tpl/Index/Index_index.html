@@ -88,94 +88,161 @@
 	<!-- classifi -->
 	<div class="classifi">
 		<div class="classifi-in">
-			<div class="classifi-one">
-				<span class="classifi-title-mian">C++开发工程师</span>
-				<span class="classifi-title-sub">哈哈哈大师亲自教学</span>
+			<div class="classifi-circle">
+				<img src="">
 			</div>
-			<div class="classifi-one">
-				<span class="classifi-title-mian">C++开发工程师</span>
-				<span class="classifi-title-sub">哈哈哈大师亲自教学</span>
+			<div class="classifi-circle circle-left">
+				<img src="">
 			</div>
-			<div class="classifi-one">
-				<span class="classifi-title-mian">C++开发工程师</span>
-				<span class="classifi-title-sub">哈哈哈大师亲自教学</span>
+			<div class="classifi-circle circle-left">
+				<img src="">
 			</div>
-			<div class="classifi-one">
-				<span class="classifi-title-mian">C++开发工程师</span>
-				<span class="classifi-title-sub">哈哈哈大师亲自教学</span>
+			<div class="classifi-circle circle-left">
+				<img src="">
 			</div>
-			<div class="classifi-five">
-				<span class="classifi-title-mian">C++开发工程师</span>
-				<span class="classifi-title-sub">哈哈哈大师亲自教学</span>
+			<div class="classifi-circle circle-left">
+				<img src="">
+			</div>
+			<div class="classifi-circle circle-left">
+				<img src="">
 			</div>
 		</div>
 	</div>
 
 	<!-- delivery 1st-->
 	<div class="deOne">
+		<div class="deOne-up">
+			<span class="deOne-up-1">推荐</span>
+			<span class="deOne-up-2">案例作品</span>
+			<span class="deOne-up-3">查看更多</span>
+		</div>
 		<div class="deOne-in">
 			<div class="deOne-1">
 				<img src="__PUBLIC__/images/a.jpg">
-				<span class="title-main">这里是很长的主标题这里是...</span>
+				<span class="title-main">这里是很长的主标题这里是这里是很长的主标题这里是</span>
+				<span class="title-tag">原创作品 - 插画 - 绘画习作</span>
 				<span class="title-sub">这里是很短的富标题这里是很短...</span>
+				<span class="title-time">发布时间：3月27日</span>
+				<span class="title-popular">926人气 / 52评论 / 12收藏</span>
 			</div>
 			<div class="deOne-2">
 				<img src="__PUBLIC__/images/b.jpg">
 				<span class="title-main">这里是很长的主标题这里是...</span>
+				<span class="title-tag">设计文章 - 原创 - 中/长篇漫画 </span>
 				<span class="title-sub">这里是很短的富标题这里是很短...</span>
+				<span class="title-time">发布时间：3月27日</span>
+				<span class="title-popular">926人气 / 52评论 / 12收藏</span>
 			</div>
 			<div class="deOne-3">
 				<img src="__PUBLIC__/images/c.jpg">
 				<span class="title-main">这里是很长的主标题这里是...</span>
+				<span class="title-tag">原创作品 - 插画 - 绘画习作</span>
 				<span class="title-sub">这里是很短的富标题这里是很短...</span>
+				<span class="title-time">发布时间：3月27日</span>
+				<span class="title-popular">926人气 / 52评论 / 12收藏</span>
 			</div>
 			<div class="deOne-4">
 				<img src="__PUBLIC__/images/d.jpg">
 				<span class="title-main">这里是很长的主标题这里是...</span>
+				<span class="title-tag">设计文章 - 原创 - 中/长篇漫画 </span>
 				<span class="title-sub">这里是很短的富标题这里是很短...</span>
-			</div>
-			<div class="deOne-5">
-				<img src="__PUBLIC__/images/e.jpg">
-				<span class="title-main">这里是很长的主标题这里是...</span>
-				<span class="title-sub">这里是很短的富标题这里是很短...</span>
+				<span class="title-time">发布时间：3月27日</span>
+				<span class="title-popular">926人气 / 52评论 / 12收藏</span>
 			</div>
 		</div>
 	</div>
 
 	<!-- delivery 2ed-->
 	<div class="deTwo">
+		<div class="deOne-up">
+			<span class="deOne-up-1">人气</span>
+			<span class="deOne-up-2">案例作品</span>
+			<span class="deOne-up-3">查看更多</span>
+		</div>
 		<div class="deOne-in">
 			<div class="deOne-1">
-				<img src="__PUBLIC__/images/f.jpg">
-				<span class="title-main">这里是很长的主标题这里是...</span>
+				<img src="__PUBLIC__/images/a.jpg">
+				<span class="title-main">这里是很长的主标题这里是这里是很长的主标题这里是</span>
+				<span class="title-tag">原创作品 - 插画 - 绘画习作</span>
 				<span class="title-sub">这里是很短的富标题这里是很短...</span>
+				<span class="title-time">发布时间：3月27日</span>
+				<span class="title-popular">926人气 / 52评论 / 12收藏</span>
 			</div>
 			<div class="deOne-2">
-				<img src="__PUBLIC__/images/h.jpg">
-				<span class="title-main">这里是很长的主标题这里是...</span>
-				<span class="title-sub">这里是很短的富标题这里是很短...</span>
-			</div>
-			<div class="deOne-3">
-				<img src="__PUBLIC__/images/qq.jpg">
-				<span class="title-main">这里是很长的主标题这里是...</span>
-				<span class="title-sub">这里是很短的富标题这里是很短...</span>
-			</div>
-			<div class="deOne-4">
 				<img src="__PUBLIC__/images/b.jpg">
 				<span class="title-main">这里是很长的主标题这里是...</span>
+				<span class="title-tag">设计文章 - 原创 - 中/长篇漫画 </span>
 				<span class="title-sub">这里是很短的富标题这里是很短...</span>
+				<span class="title-time">发布时间：3月27日</span>
+				<span class="title-popular">926人气 / 52评论 / 12收藏</span>
 			</div>
-			<div class="deOne-5">
+			<div class="deOne-3">
 				<img src="__PUBLIC__/images/c.jpg">
 				<span class="title-main">这里是很长的主标题这里是...</span>
+				<span class="title-tag">原创作品 - 插画 - 绘画习作</span>
 				<span class="title-sub">这里是很短的富标题这里是很短...</span>
+				<span class="title-time">发布时间：3月27日</span>
+				<span class="title-popular">926人气 / 52评论 / 12收藏</span>
+			</div>
+			<div class="deOne-4">
+				<img src="__PUBLIC__/images/d.jpg">
+				<span class="title-main">这里是很长的主标题这里是...</span>
+				<span class="title-tag">设计文章 - 原创 - 中/长篇漫画 </span>
+				<span class="title-sub">这里是很短的富标题这里是很短...</span>
+				<span class="title-time">发布时间：3月27日</span>
+				<span class="title-popular">926人气 / 52评论 / 12收藏</span>
 			</div>
 		</div>
 	</div>
 
 	<!-- delivery 3rd-->
 	<div class="deTwo">
+		<div class="deOne-up">
+			<span class="deOne-up-1">精品</span>
+			<span class="deOne-up-2">案例作品</span>
+			<span class="deOne-up-3">查看更多</span>
+		</div>
+		<div class="deOne-in">
+			<div class="deOne-1">
+				<img src="__PUBLIC__/images/a.jpg">
+				<span class="title-main">这里是很长的主标题这里是这里是很长的主标题这里是</span>
+				<span class="title-tag">原创作品 - 插画 - 绘画习作</span>
+				<span class="title-sub">这里是很长的描述这里是很长的描述这里是很长的描述这里是很长的描述这里是很长的描述这里是很长的描述</span>
+				<span class="title-time">发布时间：2017-03-27</span>
+				<span class="title-popular">926人气 / 52评论 / 12收藏</span>
+			</div>
+			<div class="deOne-2">
+				<img src="__PUBLIC__/images/b.jpg">
+				<span class="title-main">这里是很长的主标题这里是这里是很长的主标题这里是</span>
+				<span class="title-tag">设计文章 - 原创 - 中/长篇漫画 </span>
+				<span class="title-sub">这这里是很长的描述这里是很长的描述这里是很长的描述这里是很长的描述这里是很长的描述这里是很长的描述</span>
+				<span class="title-time">发布时间：2017-03-27</span>
+				<span class="title-popular">926人气 / 52评论 / 12收藏</span>
+			</div>
+			<div class="deOne-3">
+				<img src="__PUBLIC__/images/c.jpg">
+				<span class="title-main">这里是很长的主标题这里是这里是很长的主标题这里是</span>
+				<span class="title-tag">原创作品 - 插画 - 绘画习作</span>
+				<span class="title-sub">这里是很长的描述这里是很长的描述这里是很长的描述这里是很长的描述这里是很长的描述这里是很长的描述</span>
+				<span class="title-time">发布时间：2017-03-27</span>
+				<span class="title-popular">926人气 / 52评论 / 12收藏</span>
+			</div>
+			<div class="deOne-4">
+				<img src="__PUBLIC__/images/d.jpg">
+				<span class="title-main">这里是很长的主标题这里是这里是很长的主标题这里是</span>
+				<span class="title-tag">设计文章 - 原创 - 中/长篇漫画 </span>
+				<span class="title-sub">这里是很长的描述这里是很长的描述这里是很长的描述这里是很长的描述这里是很长的描述这里是很长的描述</span>
+				<span class="title-time">发布时间：2017-03-27</span>
+				<span class="title-popular">926人气 / 52评论 / 12收藏</span>
+			</div>
+		</div>
+	</div>
 
+	<!-- delivery 3rd-->
+	<div class="deFour">
+		<div class="deFour-in">
+			<input type="button" value="查看更多" class="deFour-button">
+		</div>
 	</div>
 
 	<!-- footer -->
