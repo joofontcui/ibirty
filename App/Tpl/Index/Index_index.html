@@ -14,13 +14,15 @@
 		<div class="navigation">
 			<div class="nav-left">
 				<span class="nav-left-one">ibirty</span>
-				<span class="nav-left-two">首页</span>
-				<span class="nav-left-two">业务</span>
-				<span class="nav-left-two">案例</span>
-				<span class="nav-left-two">···</span>
+				<span class="nav-left-two">走进立创</span>
+				<span class="nav-left-two">公司新闻</span>
+				<span class="nav-left-two">经典案例</span>
+				<span class="nav-left-two">服务项目</span>
+				<span class="nav-left-two">加入立创</span>
+				<span class="nav-left-two">联系我们</span>
 			</div>
 			<div class="nav-right">
-				<input type="button" class="button" value="注册/登录"/>
+				<!--<input type="button" class="button" value="注册/登录"/>-->
 				<input type="text" name="research" class="research" />
 				<input type="submit" value="" class="submit" />
 
@@ -89,161 +91,177 @@
 	<div class="classifi">
 		<div class="classifi-in">
 			<div class="classifi-circle">
-				<img src="">
+				<span class="classcirOne cla-cir-img"></span>
+				<span class="cla-cir-title">3D签到墙</span>
+				<span class="cla-cir-cont">微信扫码签到，精致心形签到墙上墙</span>
 			</div>
 			<div class="classifi-circle circle-left">
-				<img src="">
+				<span class="classcirOne cla-cir-img"></span>
+				<span class="cla-cir-title">3D签到墙</span>
+				<span class="cla-cir-cont">微信扫码签到，精致心形签到墙上墙</span>
 			</div>
 			<div class="classifi-circle circle-left">
-				<img src="">
+				<span class="classcirOne cla-cir-img"></span>
+				<span class="cla-cir-title">3D签到墙</span>
+				<span class="cla-cir-cont">微信扫码签到，精致心形签到墙上墙</span>
 			</div>
 			<div class="classifi-circle circle-left">
-				<img src="">
+				<span class="classcirOne cla-cir-img"></span>
+				<span class="cla-cir-title">3D签到墙</span>
+				<span class="cla-cir-cont">微信扫码签到，精致心形签到墙上墙</span>
 			</div>
 			<div class="classifi-circle circle-left">
-				<img src="">
+				<span class="classcirOne cla-cir-img"></span>
+				<span class="cla-cir-title">3D签到墙</span>
+				<span class="cla-cir-cont">微信扫码签到，精致心形签到墙上墙</span>
 			</div>
 			<div class="classifi-circle circle-left">
-				<img src="">
+				<span class="classcirOne cla-cir-img"></span>
+				<span class="cla-cir-title">3D签到墙</span>
+				<span class="cla-cir-cont">微信扫码签到，精致心形签到墙上墙</span>
 			</div>
 		</div>
 	</div>
 
 	<!-- delivery 1st-->
-	<div class="deOne">
-		<div class="deOne-up">
-			<span class="deOne-up-1">推荐</span>
-			<span class="deOne-up-2">案例作品</span>
-			<span class="deOne-up-3">查看更多</span>
-		</div>
-		<div class="deOne-in">
-			<div class="deOne-1">
-				<img src="__PUBLIC__/images/a.jpg">
-				<span class="title-main">这里是很长的主标题这里是这里是很长的主标题这里是</span>
-				<span class="title-tag">原创作品 - 插画 - 绘画习作</span>
-				<span class="title-sub">这里是很短的富标题这里是很短...</span>
-				<span class="title-time">发布时间：3月27日</span>
-				<span class="title-popular">926人气 / 52评论 / 12收藏</span>
-			</div>
-			<div class="deOne-2">
-				<img src="__PUBLIC__/images/b.jpg">
-				<span class="title-main">这里是很长的主标题这里是...</span>
-				<span class="title-tag">设计文章 - 原创 - 中/长篇漫画 </span>
-				<span class="title-sub">这里是很短的富标题这里是很短...</span>
-				<span class="title-time">发布时间：3月27日</span>
-				<span class="title-popular">926人气 / 52评论 / 12收藏</span>
-			</div>
-			<div class="deOne-3">
-				<img src="__PUBLIC__/images/c.jpg">
-				<span class="title-main">这里是很长的主标题这里是...</span>
-				<span class="title-tag">原创作品 - 插画 - 绘画习作</span>
-				<span class="title-sub">这里是很短的富标题这里是很短...</span>
-				<span class="title-time">发布时间：3月27日</span>
-				<span class="title-popular">926人气 / 52评论 / 12收藏</span>
-			</div>
-			<div class="deOne-4">
-				<img src="__PUBLIC__/images/d.jpg">
-				<span class="title-main">这里是很长的主标题这里是...</span>
-				<span class="title-tag">设计文章 - 原创 - 中/长篇漫画 </span>
-				<span class="title-sub">这里是很短的富标题这里是很短...</span>
-				<span class="title-time">发布时间：3月27日</span>
-				<span class="title-popular">926人气 / 52评论 / 12收藏</span>
-			</div>
-		</div>
-	</div>
+	<!--<div class="deOne">-->
+		<!--<div class="deOne-up">-->
+			<!--<span class="deOne-up-1">推荐</span>-->
+			<!--<span class="deOne-up-2">案例作品</span>-->
+			<!--<span class="deOne-up-3">查看更多</span>-->
+		<!--</div>-->
+		<!--<div class="deOne-in">-->
+			<!--<div class="deOne-1">-->
+				<!--<img src="__PUBLIC__/images/a.jpg">-->
+				<!--<span class="title-main">这里是很长的主标题这里是这里是很长的主标题这里是</span>-->
+				<!--<span class="title-tag">原创作品 - 插画 - 绘画习作</span>-->
+				<!--<span class="title-sub">这里是很短的富标题这里是很短...</span>-->
+				<!--<span class="title-time">发布时间：3月27日</span>-->
+				<!--<span class="title-popular">926人气 / 52评论 / 12收藏</span>-->
+			<!--</div>-->
+			<!--<div class="deOne-2">-->
+				<!--<img src="__PUBLIC__/images/b.jpg">-->
+				<!--<span class="title-main">这里是很长的主标题这里是...</span>-->
+				<!--<span class="title-tag">设计文章 - 原创 - 中/长篇漫画 </span>-->
+				<!--<span class="title-sub">这里是很短的富标题这里是很短...</span>-->
+				<!--<span class="title-time">发布时间：3月27日</span>-->
+				<!--<span class="title-popular">926人气 / 52评论 / 12收藏</span>-->
+			<!--</div>-->
+			<!--<div class="deOne-3">-->
+				<!--<img src="__PUBLIC__/images/c.jpg">-->
+				<!--<span class="title-main">这里是很长的主标题这里是...</span>-->
+				<!--<span class="title-tag">原创作品 - 插画 - 绘画习作</span>-->
+				<!--<span class="title-sub">这里是很短的富标题这里是很短...</span>-->
+				<!--<span class="title-time">发布时间：3月27日</span>-->
+				<!--<span class="title-popular">926人气 / 52评论 / 12收藏</span>-->
+			<!--</div>-->
+			<!--<div class="deOne-4">-->
+				<!--<img src="__PUBLIC__/images/d.jpg">-->
+				<!--<span class="title-main">这里是很长的主标题这里是...</span>-->
+				<!--<span class="title-tag">设计文章 - 原创 - 中/长篇漫画 </span>-->
+				<!--<span class="title-sub">这里是很短的富标题这里是很短...</span>-->
+				<!--<span class="title-time">发布时间：3月27日</span>-->
+				<!--<span class="title-popular">926人气 / 52评论 / 12收藏</span>-->
+			<!--</div>-->
+		<!--</div>-->
+	<!--</div>-->
 
 	<!-- delivery 2ed-->
-	<div class="deTwo">
-		<div class="deOne-up">
-			<span class="deOne-up-1">人气</span>
-			<span class="deOne-up-2">案例作品</span>
-			<span class="deOne-up-3">查看更多</span>
-		</div>
-		<div class="deOne-in">
-			<div class="deOne-1">
-				<img src="__PUBLIC__/images/a.jpg">
-				<span class="title-main">这里是很长的主标题这里是这里是很长的主标题这里是</span>
-				<span class="title-tag">原创作品 - 插画 - 绘画习作</span>
-				<span class="title-sub">这里是很短的富标题这里是很短...</span>
-				<span class="title-time">发布时间：3月27日</span>
-				<span class="title-popular">926人气 / 52评论 / 12收藏</span>
-			</div>
-			<div class="deOne-2">
-				<img src="__PUBLIC__/images/b.jpg">
-				<span class="title-main">这里是很长的主标题这里是...</span>
-				<span class="title-tag">设计文章 - 原创 - 中/长篇漫画 </span>
-				<span class="title-sub">这里是很短的富标题这里是很短...</span>
-				<span class="title-time">发布时间：3月27日</span>
-				<span class="title-popular">926人气 / 52评论 / 12收藏</span>
-			</div>
-			<div class="deOne-3">
-				<img src="__PUBLIC__/images/c.jpg">
-				<span class="title-main">这里是很长的主标题这里是...</span>
-				<span class="title-tag">原创作品 - 插画 - 绘画习作</span>
-				<span class="title-sub">这里是很短的富标题这里是很短...</span>
-				<span class="title-time">发布时间：3月27日</span>
-				<span class="title-popular">926人气 / 52评论 / 12收藏</span>
-			</div>
-			<div class="deOne-4">
-				<img src="__PUBLIC__/images/d.jpg">
-				<span class="title-main">这里是很长的主标题这里是...</span>
-				<span class="title-tag">设计文章 - 原创 - 中/长篇漫画 </span>
-				<span class="title-sub">这里是很短的富标题这里是很短...</span>
-				<span class="title-time">发布时间：3月27日</span>
-				<span class="title-popular">926人气 / 52评论 / 12收藏</span>
-			</div>
-		</div>
-	</div>
+	<!--<div class="deTwo">-->
+		<!--<div class="deOne-up">-->
+			<!--<span class="deOne-up-1">人气</span>-->
+			<!--<span class="deOne-up-2">案例作品</span>-->
+			<!--<span class="deOne-up-3">查看更多</span>-->
+		<!--</div>-->
+		<!--<div class="deOne-in">-->
+			<!--<div class="deOne-1">-->
+				<!--<img src="__PUBLIC__/images/a.jpg">-->
+				<!--<span class="title-main">这里是很长的主标题这里是这里是很长的主标题这里是</span>-->
+				<!--<span class="title-tag">原创作品 - 插画 - 绘画习作</span>-->
+				<!--<span class="title-sub">这里是很短的富标题这里是很短...</span>-->
+				<!--<span class="title-time">发布时间：3月27日</span>-->
+				<!--<span class="title-popular">926人气 / 52评论 / 12收藏</span>-->
+			<!--</div>-->
+			<!--<div class="deOne-2">-->
+				<!--<img src="__PUBLIC__/images/b.jpg">-->
+				<!--<span class="title-main">这里是很长的主标题这里是...</span>-->
+				<!--<span class="title-tag">设计文章 - 原创 - 中/长篇漫画 </span>-->
+				<!--<span class="title-sub">这里是很短的富标题这里是很短...</span>-->
+				<!--<span class="title-time">发布时间：3月27日</span>-->
+				<!--<span class="title-popular">926人气 / 52评论 / 12收藏</span>-->
+			<!--</div>-->
+			<!--<div class="deOne-3">-->
+				<!--<img src="__PUBLIC__/images/c.jpg">-->
+				<!--<span class="title-main">这里是很长的主标题这里是...</span>-->
+				<!--<span class="title-tag">原创作品 - 插画 - 绘画习作</span>-->
+				<!--<span class="title-sub">这里是很短的富标题这里是很短...</span>-->
+				<!--<span class="title-time">发布时间：3月27日</span>-->
+				<!--<span class="title-popular">926人气 / 52评论 / 12收藏</span>-->
+			<!--</div>-->
+			<!--<div class="deOne-4">-->
+				<!--<img src="__PUBLIC__/images/d.jpg">-->
+				<!--<span class="title-main">这里是很长的主标题这里是...</span>-->
+				<!--<span class="title-tag">设计文章 - 原创 - 中/长篇漫画 </span>-->
+				<!--<span class="title-sub">这里是很短的富标题这里是很短...</span>-->
+				<!--<span class="title-time">发布时间：3月27日</span>-->
+				<!--<span class="title-popular">926人气 / 52评论 / 12收藏</span>-->
+			<!--</div>-->
+		<!--</div>-->
+	<!--</div>-->
 
 	<!-- delivery 3rd-->
-	<div class="deTwo">
-		<div class="deOne-up">
-			<span class="deOne-up-1">精品</span>
-			<span class="deOne-up-2">案例作品</span>
-			<span class="deOne-up-3">查看更多</span>
-		</div>
-		<div class="deOne-in">
-			<div class="deOne-1">
-				<img src="__PUBLIC__/images/a.jpg">
-				<span class="title-main">这里是很长的主标题这里是这里是很长的主标题这里是</span>
-				<span class="title-tag">原创作品 - 插画 - 绘画习作</span>
-				<span class="title-sub">这里是很长的描述这里是很长的描述这里是很长的描述这里是很长的描述这里是很长的描述这里是很长的描述</span>
-				<span class="title-time">发布时间：2017-03-27</span>
-				<span class="title-popular">926人气 / 52评论 / 12收藏</span>
-			</div>
-			<div class="deOne-2">
-				<img src="__PUBLIC__/images/b.jpg">
-				<span class="title-main">这里是很长的主标题这里是这里是很长的主标题这里是</span>
-				<span class="title-tag">设计文章 - 原创 - 中/长篇漫画 </span>
-				<span class="title-sub">这这里是很长的描述这里是很长的描述这里是很长的描述这里是很长的描述这里是很长的描述这里是很长的描述</span>
-				<span class="title-time">发布时间：2017-03-27</span>
-				<span class="title-popular">926人气 / 52评论 / 12收藏</span>
-			</div>
-			<div class="deOne-3">
-				<img src="__PUBLIC__/images/c.jpg">
-				<span class="title-main">这里是很长的主标题这里是这里是很长的主标题这里是</span>
-				<span class="title-tag">原创作品 - 插画 - 绘画习作</span>
-				<span class="title-sub">这里是很长的描述这里是很长的描述这里是很长的描述这里是很长的描述这里是很长的描述这里是很长的描述</span>
-				<span class="title-time">发布时间：2017-03-27</span>
-				<span class="title-popular">926人气 / 52评论 / 12收藏</span>
-			</div>
-			<div class="deOne-4">
-				<img src="__PUBLIC__/images/d.jpg">
-				<span class="title-main">这里是很长的主标题这里是这里是很长的主标题这里是</span>
-				<span class="title-tag">设计文章 - 原创 - 中/长篇漫画 </span>
-				<span class="title-sub">这里是很长的描述这里是很长的描述这里是很长的描述这里是很长的描述这里是很长的描述这里是很长的描述</span>
-				<span class="title-time">发布时间：2017-03-27</span>
-				<span class="title-popular">926人气 / 52评论 / 12收藏</span>
-			</div>
-		</div>
-	</div>
+	<!--<div class="deTwo">-->
+		<!--<div class="deOne-up">-->
+			<!--<span class="deOne-up-1">精品</span>-->
+			<!--<span class="deOne-up-2">案例作品</span>-->
+			<!--<span class="deOne-up-3">查看更多</span>-->
+		<!--</div>-->
+		<!--<div class="deOne-in">-->
+			<!--<div class="deOne-1">-->
+				<!--<img src="__PUBLIC__/images/a.jpg">-->
+				<!--<span class="title-main">这里是很长的主标题这里是这里是很长的主标题这里是</span>-->
+				<!--<span class="title-tag">原创作品 - 插画 - 绘画习作</span>-->
+				<!--<span class="title-sub">这里是很长的描述这里是很长的描述这里是很长的描述这里是很长的描述这里是很长的描述这里是很长的描述</span>-->
+				<!--<span class="title-time">发布时间：2017-03-27</span>-->
+				<!--<span class="title-popular">926人气 / 52评论 / 12收藏</span>-->
+			<!--</div>-->
+			<!--<div class="deOne-2">-->
+				<!--<img src="__PUBLIC__/images/b.jpg">-->
+				<!--<span class="title-main">这里是很长的主标题这里是这里是很长的主标题这里是</span>-->
+				<!--<span class="title-tag">设计文章 - 原创 - 中/长篇漫画 </span>-->
+				<!--<span class="title-sub">这这里是很长的描述这里是很长的描述这里是很长的描述这里是很长的描述这里是很长的描述这里是很长的描述</span>-->
+				<!--<span class="title-time">发布时间：2017-03-27</span>-->
+				<!--<span class="title-popular">926人气 / 52评论 / 12收藏</span>-->
+			<!--</div>-->
+			<!--<div class="deOne-3">-->
+				<!--<img src="__PUBLIC__/images/c.jpg">-->
+				<!--<span class="title-main">这里是很长的主标题这里是这里是很长的主标题这里是</span>-->
+				<!--<span class="title-tag">原创作品 - 插画 - 绘画习作</span>-->
+				<!--<span class="title-sub">这里是很长的描述这里是很长的描述这里是很长的描述这里是很长的描述这里是很长的描述这里是很长的描述</span>-->
+				<!--<span class="title-time">发布时间：2017-03-27</span>-->
+				<!--<span class="title-popular">926人气 / 52评论 / 12收藏</span>-->
+			<!--</div>-->
+			<!--<div class="deOne-4">-->
+				<!--<img src="__PUBLIC__/images/d.jpg">-->
+				<!--<span class="title-main">这里是很长的主标题这里是这里是很长的主标题这里是</span>-->
+				<!--<span class="title-tag">设计文章 - 原创 - 中/长篇漫画 </span>-->
+				<!--<span class="title-sub">这里是很长的描述这里是很长的描述这里是很长的描述这里是很长的描述这里是很长的描述这里是很长的描述</span>-->
+				<!--<span class="title-time">发布时间：2017-03-27</span>-->
+				<!--<span class="title-popular">926人气 / 52评论 / 12收藏</span>-->
+			<!--</div>-->
+		<!--</div>-->
+	<!--</div>-->
 
 	<!-- delivery 3rd-->
-	<div class="deFour">
-		<div class="deFour-in">
-			<input type="button" value="查看更多" class="deFour-button">
-		</div>
-	</div>
+	<!--<div class="deFour">-->
+		<!--<div class="deFour-in">-->
+			<!--<input type="button" value="查看更多" class="deFour-button">-->
+		<!--</div>-->
+	<!--</div>-->
+
+	<!--tab for show begin-->
+
+	<!--tab for show end-->
 
 	<!-- footer -->
 	<div class="footer">
