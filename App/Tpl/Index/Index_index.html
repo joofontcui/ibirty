@@ -148,19 +148,88 @@
 	<!--tab for show begin-->
 	<div class="tab-show-top"><span>经典案例</span></div>
 	<div id="tab-show">
-		<h3 class="active">教育</h3>
-		<h3>娱乐</h3>
-		<h3>汽车</h3>
+		<span class="tab-show-rush"> </span>
+		<h3 class="active">&nbsp;&nbsp;vi设计及包装印刷&nbsp;&nbsp;</h3>
+		<h3>&nbsp;&nbsp;形象宣传片&nbsp;&nbsp;</h3>
+		<h3>&nbsp;&nbsp;显示屏发光字&nbsp;&nbsp;</h3>
+		<h3>&nbsp;&nbsp;活动策划&nbsp;&nbsp;</h3>
+		<h3>&nbsp;&nbsp;广告制作&nbsp;&nbsp;</h3>
+		<h3>&nbsp;&nbsp;网站等新媒体建设推广&nbsp;&nbsp;</h3>
 
-		<div class="tab-content">教育内容</div>
-		<div>娱乐内容</div>
-		<div>汽车内容</div>
+		<div class="tab-content">
+			<img class="tab-img" src="__PUBLIC__/images/tab_11.jpg">
+			<img class="tab-img" src="__PUBLIC__/images/tab_22.jpg">
+			<img class="tab-img" src="__PUBLIC__/images/tab_33.jpg">
+			<img class="tab-img" src="__PUBLIC__/images/tab_44.jpg">
+			<img class="tab-img" src="__PUBLIC__/images/tab_55.jpg">
+			<img class="tab-img" src="__PUBLIC__/images/tab_66.jpg">
+			<img class="tab-img" src="__PUBLIC__/images/tab_77.jpg">
+			<img class="tab-img" src="__PUBLIC__/images/tab_88.jpg">
+		</div>
+		<div class="tab-img">
+			<img class="tab-img" src="__PUBLIC__/images/tab_66.jpg">
+			<img class="tab-img" src="__PUBLIC__/images/tab_44.jpg">
+			<img class="tab-img" src="__PUBLIC__/images/tab_88.jpg">
+			<img class="tab-img" src="__PUBLIC__/images/tab_22.jpg">
+			<img class="tab-img" src="__PUBLIC__/images/tab_11.jpg">
+			<img class="tab-img" src="__PUBLIC__/images/tab_55.jpg">
+			<img class="tab-img" src="__PUBLIC__/images/tab_33.jpg">
+			<img class="tab-img" src="__PUBLIC__/images/tab_77.jpg">
+		</div>
+		<div class="tab-img">
+			<img class="tab-img" src="__PUBLIC__/images/tab_44.jpg">
+			<img class="tab-img" src="__PUBLIC__/images/tab_22.jpg">
+			<img class="tab-img" src="__PUBLIC__/images/tab_77.jpg">
+			<img class="tab-img" src="__PUBLIC__/images/tab_66.jpg">
+			<img class="tab-img" src="__PUBLIC__/images/tab_11.jpg">
+			<img class="tab-img" src="__PUBLIC__/images/tab_33.jpg">
+			<img class="tab-img" src="__PUBLIC__/images/tab_55.jpg">
+			<img class="tab-img" src="__PUBLIC__/images/tab_88.jpg">
+		</div>
+		<div class="tab-img">
+			<img class="tab-img" src="__PUBLIC__/images/tab_11.jpg">
+			<img class="tab-img" src="__PUBLIC__/images/tab_22.jpg">
+			<img class="tab-img" src="__PUBLIC__/images/tab_33.jpg">
+			<img class="tab-img" src="__PUBLIC__/images/tab_44.jpg">
+			<img class="tab-img" src="__PUBLIC__/images/tab_55.jpg">
+			<img class="tab-img" src="__PUBLIC__/images/tab_66.jpg">
+			<img class="tab-img" src="__PUBLIC__/images/tab_77.jpg">
+			<img class="tab-img" src="__PUBLIC__/images/tab_88.jpg">
+		</div>
+		<div class="tab-img">
+			<img class="tab-img" src="__PUBLIC__/images/tab_66.jpg">
+			<img class="tab-img" src="__PUBLIC__/images/tab_44.jpg">
+			<img class="tab-img" src="__PUBLIC__/images/tab_88.jpg">
+			<img class="tab-img" src="__PUBLIC__/images/tab_22.jpg">
+			<img class="tab-img" src="__PUBLIC__/images/tab_11.jpg">
+			<img class="tab-img" src="__PUBLIC__/images/tab_55.jpg">
+			<img class="tab-img" src="__PUBLIC__/images/tab_33.jpg">
+			<img class="tab-img" src="__PUBLIC__/images/tab_77.jpg">
+		</div>
+		<div class="tab-img">
+			<img class="tab-img" src="__PUBLIC__/images/tab_44.jpg">
+			<img class="tab-img" src="__PUBLIC__/images/tab_22.jpg">
+			<img class="tab-img" src="__PUBLIC__/images/tab_77.jpg">
+			<img class="tab-img" src="__PUBLIC__/images/tab_66.jpg">
+			<img class="tab-img" src="__PUBLIC__/images/tab_11.jpg">
+			<img class="tab-img" src="__PUBLIC__/images/tab_33.jpg">
+			<img class="tab-img" src="__PUBLIC__/images/tab_55.jpg">
+			<img class="tab-img" src="__PUBLIC__/images/tab_88.jpg">
+		</div>
 	</div>
 
 	<!--tab for show end-->
 
-
-
+	<!--table begin-->
+	<div class="tab-show-top"><span>活动需求</span></div>
+	<div class="table-in">
+		<input class="table-input" type="text" name="name" value="" placeholder="姓名">
+		<input class="table-input" type="text" name="name" value="" placeholder="电话">
+		<input class="table-input" type="text" name="name" value="" placeholder="公司">
+		<textarea class="table-textarea" placeholder="需求(限500字)"></textarea>
+		<input class="table-submit" type="submit" name="name" value="发送">
+	</div>
+	<!--table end-->
 
 	<!-- footer -->
 	<div class="footer">
