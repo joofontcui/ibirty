@@ -14,10 +14,10 @@
 		<div class="navigation">
 			<div class="nav-left">
 				<span class="nav-left-one">ibirty</span>
-				<span class="nav-left-two">微专业</span>
-				<span class="nav-left-two">课程体系</span>
-				<span class="nav-left-two">企业版</span>
-				<span class="nav-left-two">下载App</span>
+				<span class="nav-left-two">首页</span>
+				<span class="nav-left-two">业务</span>
+				<span class="nav-left-two">案例</span>
+				<span class="nav-left-two">···</span>
 			</div>
 			<div class="nav-right">
 				<input type="button" class="button" value="注册/登录"/>
