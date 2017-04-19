@@ -148,14 +148,15 @@
 
 	<!--tab for show begin-->
 	<div class="tab-show-top"><span>经典案例</span></div>
+	<div class="web-subtitle"><span>CLASSIC CASE</span></div>
 	<div id="tab-show">
 		<span class="tab-show-rush"> </span>
-		<h3 class="active">&nbsp;&nbsp;vi设计及包装印刷&nbsp;&nbsp;</h3>
-		<h3>&nbsp;&nbsp;形象宣传片&nbsp;&nbsp;</h3>
-		<h3>&nbsp;&nbsp;显示屏发光字&nbsp;&nbsp;</h3>
-		<h3>&nbsp;&nbsp;活动策划&nbsp;&nbsp;</h3>
-		<h3>&nbsp;&nbsp;广告制作&nbsp;&nbsp;</h3>
-		<h3>&nbsp;&nbsp;网站等新媒体建设推广&nbsp;&nbsp;</h3>
+		<h3 class="active">vi设计及包装印刷</h3>
+		<h3>形象宣传片</h3>
+		<h3>显示屏发光字</h3>
+		<h3>活动策划</h3>
+		<h3>广告制作</h3>
+		<h3>网站等新媒体建设推广</h3>
 
 		<div class="tab-content">
 			<span class="tab-content-img"><!--<p class="text">这里是标题和简介</p>--><img class="tab-img" src="__PUBLIC__/images/tab_11.jpg"></span>
@@ -224,36 +225,67 @@
 
 	<!--news begin-->
 	<div class="tab-show-top-a"><span>新闻动态</span></div>
-	<div id="tab-show-a">
-		<span class="tab-show-rush-a"> </span>
-		<h3 class="active-a">&nbsp;&nbsp;公司要闻&nbsp;&nbsp;</h3>
-		<h3>&nbsp;&nbsp;行业动态&nbsp;&nbsp;</h3>
-
-		<div class="tab-content-a">
-			<img class="tab-img-a" src="__PUBLIC__/images/tab_11.jpg">
-			<img class="tab-img-a" src="__PUBLIC__/images/tab_22.jpg">
-			<img class="tab-img-a" src="__PUBLIC__/images/tab_33.jpg">
-			<img class="tab-img-a" src="__PUBLIC__/images/tab_44.jpg">
-			<img class="tab-img-a" src="__PUBLIC__/images/tab_55.jpg">
-			<img class="tab-img-a" src="__PUBLIC__/images/tab_66.jpg">
-			<img class="tab-img-a" src="__PUBLIC__/images/tab_77.jpg">
-			<img class="tab-img-a" src="__PUBLIC__/images/tab_88.jpg">
+	<div class="web-subtitle"><span>NEWS INFORMATION</span></div>
+	<div class="tab-show-a">
+		<div class="news-left">
+			<div class="news-left-con">
+				<div class="news-in">
+					<div class="news-in-date color-one"><span class="news-in-day">19</span><span>APR</span></div>
+					<div class="news-in-title">
+						<span class="new-in-title1">我是标题我是标题我是标题我是标题是标</span>
+						<span class="new-in-desc1">我是简介我是简介我是简介我是简介</span>
+					</div>
+ 				</div>
+				<div class="news-in">
+					<div class="news-in-date color-two"><span class="news-in-day">19</span><span>APR</span></div>
+					<div class="news-in-title">
+						<span class="new-in-title1">我是标题我是标题我是标题我是标题是标</span>
+						<span class="new-in-desc1">我是简介我是简介我是简介我是简介</span>
+					</div>
+				</div>
+				<div class="news-in">
+					<div class="news-in-date color-three"><span class="news-in-day">19</span><span>APR</span></div>
+					<div class="news-in-title">
+						<span class="new-in-title1">我是标题我是标题我是标题我是标题是标</span>
+						<span class="new-in-desc1">我是简介我是简介我是简介我是简介</span>
+					</div>
+				</div>
+			</div>
+			<div class="news-left-img color-seven"></div>
 		</div>
-		<div class="tab-img-a">
-			<img class="tab-img-a" src="__PUBLIC__/images/tab_66.jpg">
-			<img class="tab-img-a" src="__PUBLIC__/images/tab_44.jpg">
-			<img class="tab-img-a" src="__PUBLIC__/images/tab_88.jpg">
-			<img class="tab-img-a" src="__PUBLIC__/images/tab_22.jpg">
-			<img class="tab-img-a" src="__PUBLIC__/images/tab_11.jpg">
-			<img class="tab-img-a" src="__PUBLIC__/images/tab_55.jpg">
-			<img class="tab-img-a" src="__PUBLIC__/images/tab_33.jpg">
-			<img class="tab-img-a" src="__PUBLIC__/images/tab_77.jpg">
+		<div class="news-right">
+			<div class="news-right-con">
+				<div class="news-in">
+					<div class="news-in-date color-four"><span class="news-in-day">19</span><span>APR</span></div>
+					<div class="news-in-title">
+						<span class="new-in-title1">我是标题我是标题我是标题我是标题是标</span>
+						<span class="new-in-desc1">我是简介我是简介我是简介我是简介</span>
+					</div>
+				</div>
+				<div class="news-in">
+					<div class="news-in-date color-five"><span class="news-in-day">19</span><span>APR</span></div>
+					<div class="news-in-title">
+						<span class="new-in-title1">我是标题我是标题我是标题我是标题是标</span>
+						<span class="new-in-desc1">我是简介我是简介我是简介我是简介</span>
+					</div>
+				</div>
+				<div class="news-in">
+					<div class="news-in-date color-six"><span class="news-in-day">19</span><span>APR</span></div>
+					<div class="news-in-title">
+						<span class="new-in-title1">我是标题我是标题我是标题我是标题是标</span>
+						<span class="new-in-desc1">我是简介我是简介我是简介我是简介</span>
+					</div>
+				</div>
+			</div>
+			<div class="news-left-img color-eight"></div>
 		</div>
 	</div>
 	<!--new end-->
 
 
 	<!--show time begin-->
+	<div class="tab-show-top-aa"><span>服务项目</span></div>
+	<div class="web-subtitle"><span>SERVICE ITEMS</span></div>
 	<div class="show-time">
 		<img src="__PUBLIC__/images/showtime.jpg" class="show-time-img">
 	</div>
@@ -261,10 +293,11 @@
 
 
 	<!--table begin-->
-	<div class="tab-show-top"><span>活动需求</span></div>
+	<div class="tab-show-top-aa"><span>活动需求</span></div>
+	<div class="web-subtitle"><span>ACTIVITY REQUIREMENT</span></div>
 	<div class="tab-show-top-title">
-		<h3 id="tab-top-title">&nbsp;&nbsp;活动预约&nbsp;&nbsp;</h3>
-		<h3>&nbsp;&nbsp;活动下单&nbsp;&nbsp;</h3>
+		<h3 id="tab-top-title">活动预约</h3>
+		<h3>活动下单</h3>
 	</div>
 	<div class="table-in">
 		<input class="table-input" type="text" name="name" value="" placeholder="姓名">
