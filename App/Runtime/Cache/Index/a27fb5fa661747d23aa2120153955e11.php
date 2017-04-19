@@ -4,8 +4,8 @@
 	<meta charset="UTF-8">
 	<title>Funuy Day</title>
 	<link rel="stylesheet" type="text/css" href="__PUBLIC__/css/index.min.css">
-	<script src="__PUBLIC__/js/index.min.js"></script>
 
+	<script src="__PUBLIC__/js/index.min.js"></script>
 	<script type="text/javascript">
         window.onload = function() {
             var oTab = document.getElementById("tab-show");
@@ -24,6 +24,7 @@
                     aDiv[this.index].style.display = "block";
                 };
             }
+
         };
 	</script>
 </head>
@@ -36,11 +37,11 @@
 			<div class="nav-left">
 				<span class="nav-left-one">ibirty</span>
 				<span class="nav-left-two">走进立创</span>
-				<span class="nav-left-two">公司新闻</span>
+				<span class="nav-left-two">新闻动态</span>
 				<span class="nav-left-two">经典案例</span>
 				<span class="nav-left-two">服务项目</span>
 				<span class="nav-left-two">加入立创</span>
-				<span class="nav-left-two">联系我们</span>
+				<span class="nav-left-two">活动需求</span>
 			</div>
 			<div class="nav-right">
 				<!--<input type="button" class="button" value="注册/登录"/>-->
@@ -113,33 +114,33 @@
 		<div class="classifi-in">
 			<div class="classifi-circle">
 				<span class="classcirOne cla-cir-img"></span>
-				<span class="cla-cir-title">3D签到墙</span>
-				<span class="cla-cir-cont">微信扫码签到，精致心形签到墙上墙</span>
+				<span class="cla-cir-title">新媒体推广</span>
+				<span class="cla-cir-cont">支持多种业务形态的新媒体建设和推广</span>
 			</div>
 			<div class="classifi-circle circle-left">
 				<span class="classcirTwo cla-cir-img"></span>
-				<span class="cla-cir-title">3D签到墙</span>
-				<span class="cla-cir-cont">微信扫码签到，精致心形签到墙上墙</span>
+				<span class="cla-cir-title">vi设计</span>
+				<span class="cla-cir-cont">设计与视觉资源整合、设计印刷一体化服务</span>
 			</div>
 			<div class="classifi-circle circle-left">
 				<span class="classcirTre cla-cir-img"></span>
-				<span class="cla-cir-title">3D签到墙</span>
-				<span class="cla-cir-cont">微信扫码签到，精致心形签到墙上墙</span>
+				<span class="cla-cir-title">广告制作</span>
+				<span class="cla-cir-cont">一群有创造力的制作人,一个个成功的广告片案例</span>
 			</div>
 			<div class="classifi-circle circle-left">
 				<span class="classcirFou cla-cir-img"></span>
-				<span class="cla-cir-title">3D签到墙</span>
-				<span class="cla-cir-cont">微信扫码签到，精致心形签到墙上墙</span>
+				<span class="cla-cir-title">显示屏发光字</span>
+				<span class="cla-cir-cont">发光字电源、车载led显示屏等专业定制</span>
 			</div>
 			<div class="classifi-circle circle-left">
 				<span class="classcirFiv cla-cir-img"></span>
-				<span class="cla-cir-title">3D签到墙</span>
-				<span class="cla-cir-cont">微信扫码签到，精致心形签到墙上墙</span>
+				<span class="cla-cir-title">形象宣传片</span>
+				<span class="cla-cir-cont">专业承接宣传片、专题片、广告片等制作</span>
 			</div>
 			<div class="classifi-circle circle-left">
 				<span class="classcirSix cla-cir-img"></span>
-				<span class="cla-cir-title">3D签到墙</span>
-				<span class="cla-cir-cont">微信扫码签到，精致心形签到墙上墙</span>
+				<span class="cla-cir-title">活动策划</span>
+				<span class="cla-cir-cont">以专业的技术和持续创新的理念,为客户创造价值</span>
 			</div>
 		</div>
 	</div>
@@ -157,71 +158,114 @@
 		<h3>&nbsp;&nbsp;网站等新媒体建设推广&nbsp;&nbsp;</h3>
 
 		<div class="tab-content">
-			<img class="tab-img" src="__PUBLIC__/images/tab_11.jpg">
-			<img class="tab-img" src="__PUBLIC__/images/tab_22.jpg">
-			<img class="tab-img" src="__PUBLIC__/images/tab_33.jpg">
-			<img class="tab-img" src="__PUBLIC__/images/tab_44.jpg">
-			<img class="tab-img" src="__PUBLIC__/images/tab_55.jpg">
-			<img class="tab-img" src="__PUBLIC__/images/tab_66.jpg">
-			<img class="tab-img" src="__PUBLIC__/images/tab_77.jpg">
-			<img class="tab-img" src="__PUBLIC__/images/tab_88.jpg">
+			<span class="tab-content-img"><!--<p class="text">这里是标题和简介</p>--><img class="tab-img" src="__PUBLIC__/images/tab_11.jpg"></span>
+			<span class="tab-content-img"><img class="tab-img" src="__PUBLIC__/images/tab_22.jpg"></span>
+			<span class="tab-content-img"><img class="tab-img" src="__PUBLIC__/images/tab_33.jpg"></span>
+			<span class="tab-content-img"><img class="tab-img" src="__PUBLIC__/images/tab_44.jpg"></span>
+			<span class="tab-content-img"><img class="tab-img" src="__PUBLIC__/images/tab_55.jpg"></span>
+			<span class="tab-content-img"><img class="tab-img" src="__PUBLIC__/images/tab_66.jpg"></span>
+			<span class="tab-content-img"><img class="tab-img" src="__PUBLIC__/images/tab_77.jpg"></span>
+			<span class="tab-content-img"><img class="tab-img" src="__PUBLIC__/images/tab_88.jpg"></span>
 		</div>
 		<div class="tab-img">
-			<img class="tab-img" src="__PUBLIC__/images/tab_66.jpg">
-			<img class="tab-img" src="__PUBLIC__/images/tab_44.jpg">
-			<img class="tab-img" src="__PUBLIC__/images/tab_88.jpg">
-			<img class="tab-img" src="__PUBLIC__/images/tab_22.jpg">
-			<img class="tab-img" src="__PUBLIC__/images/tab_11.jpg">
-			<img class="tab-img" src="__PUBLIC__/images/tab_55.jpg">
-			<img class="tab-img" src="__PUBLIC__/images/tab_33.jpg">
-			<img class="tab-img" src="__PUBLIC__/images/tab_77.jpg">
+			<span class="tab-content-img"><img class="tab-img" src="__PUBLIC__/images/tab_66.jpg"></span>
+			<span class="tab-content-img"><img class="tab-img" src="__PUBLIC__/images/tab_44.jpg"></span>
+			<span class="tab-content-img"><img class="tab-img" src="__PUBLIC__/images/tab_88.jpg"></span>
+			<span class="tab-content-img"><img class="tab-img" src="__PUBLIC__/images/tab_22.jpg"></span>
+			<span class="tab-content-img"><img class="tab-img" src="__PUBLIC__/images/tab_11.jpg"></span>
+			<span class="tab-content-img"><img class="tab-img" src="__PUBLIC__/images/tab_55.jpg"></span>
+			<span class="tab-content-img"><img class="tab-img" src="__PUBLIC__/images/tab_33.jpg"></span>
+			<span class="tab-content-img"><img class="tab-img" src="__PUBLIC__/images/tab_77.jpg"></span>
 		</div>
 		<div class="tab-img">
-			<img class="tab-img" src="__PUBLIC__/images/tab_44.jpg">
-			<img class="tab-img" src="__PUBLIC__/images/tab_22.jpg">
-			<img class="tab-img" src="__PUBLIC__/images/tab_77.jpg">
-			<img class="tab-img" src="__PUBLIC__/images/tab_66.jpg">
-			<img class="tab-img" src="__PUBLIC__/images/tab_11.jpg">
-			<img class="tab-img" src="__PUBLIC__/images/tab_33.jpg">
-			<img class="tab-img" src="__PUBLIC__/images/tab_55.jpg">
-			<img class="tab-img" src="__PUBLIC__/images/tab_88.jpg">
+			<span class="tab-content-img"><img class="tab-img" src="__PUBLIC__/images/tab_44.jpg"></span>
+			<span class="tab-content-img"><img class="tab-img" src="__PUBLIC__/images/tab_22.jpg"></span>
+			<span class="tab-content-img"><img class="tab-img" src="__PUBLIC__/images/tab_77.jpg"></span>
+			<span class="tab-content-img"><img class="tab-img" src="__PUBLIC__/images/tab_66.jpg"></span>
+			<span class="tab-content-img"><img class="tab-img" src="__PUBLIC__/images/tab_11.jpg"></span>
+			<span class="tab-content-img"><img class="tab-img" src="__PUBLIC__/images/tab_33.jpg"></span>
+			<span class="tab-content-img"><img class="tab-img" src="__PUBLIC__/images/tab_55.jpg"></span>
+			<span class="tab-content-img"><img class="tab-img" src="__PUBLIC__/images/tab_88.jpg"></span>
 		</div>
 		<div class="tab-img">
-			<img class="tab-img" src="__PUBLIC__/images/tab_11.jpg">
-			<img class="tab-img" src="__PUBLIC__/images/tab_22.jpg">
-			<img class="tab-img" src="__PUBLIC__/images/tab_33.jpg">
-			<img class="tab-img" src="__PUBLIC__/images/tab_44.jpg">
-			<img class="tab-img" src="__PUBLIC__/images/tab_55.jpg">
-			<img class="tab-img" src="__PUBLIC__/images/tab_66.jpg">
-			<img class="tab-img" src="__PUBLIC__/images/tab_77.jpg">
-			<img class="tab-img" src="__PUBLIC__/images/tab_88.jpg">
+			<span class="tab-content-img"><img class="tab-img" src="__PUBLIC__/images/tab_11.jpg"></span>
+			<span class="tab-content-img"><img class="tab-img" src="__PUBLIC__/images/tab_22.jpg"></span>
+			<span class="tab-content-img"><img class="tab-img" src="__PUBLIC__/images/tab_33.jpg"></span>
+			<span class="tab-content-img"><img class="tab-img" src="__PUBLIC__/images/tab_44.jpg"></span>
+			<span class="tab-content-img"><img class="tab-img" src="__PUBLIC__/images/tab_55.jpg"></span>
+			<span class="tab-content-img"><img class="tab-img" src="__PUBLIC__/images/tab_66.jpg"></span>
+			<span class="tab-content-img"><img class="tab-img" src="__PUBLIC__/images/tab_77.jpg"></span>
+			<span class="tab-content-img"><img class="tab-img" src="__PUBLIC__/images/tab_88.jpg"></span>
 		</div>
 		<div class="tab-img">
-			<img class="tab-img" src="__PUBLIC__/images/tab_66.jpg">
-			<img class="tab-img" src="__PUBLIC__/images/tab_44.jpg">
-			<img class="tab-img" src="__PUBLIC__/images/tab_88.jpg">
-			<img class="tab-img" src="__PUBLIC__/images/tab_22.jpg">
-			<img class="tab-img" src="__PUBLIC__/images/tab_11.jpg">
-			<img class="tab-img" src="__PUBLIC__/images/tab_55.jpg">
-			<img class="tab-img" src="__PUBLIC__/images/tab_33.jpg">
-			<img class="tab-img" src="__PUBLIC__/images/tab_77.jpg">
+			<span class="tab-content-img"><img class="tab-img" src="__PUBLIC__/images/tab_66.jpg"></span>
+			<span class="tab-content-img"><img class="tab-img" src="__PUBLIC__/images/tab_44.jpg"></span>
+			<span class="tab-content-img"><img class="tab-img" src="__PUBLIC__/images/tab_88.jpg"></span>
+			<span class="tab-content-img"><img class="tab-img" src="__PUBLIC__/images/tab_22.jpg"></span>
+			<span class="tab-content-img"><img class="tab-img" src="__PUBLIC__/images/tab_11.jpg"></span>
+			<span class="tab-content-img"><img class="tab-img" src="__PUBLIC__/images/tab_55.jpg"></span>
+			<span class="tab-content-img"><img class="tab-img" src="__PUBLIC__/images/tab_33.jpg"></span>
+			<span class="tab-content-img"><img class="tab-img" src="__PUBLIC__/images/tab_77.jpg"></span>
 		</div>
 		<div class="tab-img">
-			<img class="tab-img" src="__PUBLIC__/images/tab_44.jpg">
-			<img class="tab-img" src="__PUBLIC__/images/tab_22.jpg">
-			<img class="tab-img" src="__PUBLIC__/images/tab_77.jpg">
-			<img class="tab-img" src="__PUBLIC__/images/tab_66.jpg">
-			<img class="tab-img" src="__PUBLIC__/images/tab_11.jpg">
-			<img class="tab-img" src="__PUBLIC__/images/tab_33.jpg">
-			<img class="tab-img" src="__PUBLIC__/images/tab_55.jpg">
-			<img class="tab-img" src="__PUBLIC__/images/tab_88.jpg">
+			<span class="tab-content-img"><img class="tab-img" src="__PUBLIC__/images/tab_44.jpg"></span>
+			<span class="tab-content-img"><img class="tab-img" src="__PUBLIC__/images/tab_22.jpg"></span>
+			<span class="tab-content-img"><img class="tab-img" src="__PUBLIC__/images/tab_77.jpg"></span>
+			<span class="tab-content-img"><img class="tab-img" src="__PUBLIC__/images/tab_66.jpg"></span>
+			<span class="tab-content-img"><img class="tab-img" src="__PUBLIC__/images/tab_11.jpg"></span>
+			<span class="tab-content-img"><img class="tab-img" src="__PUBLIC__/images/tab_33.jpg"></span>
+			<span class="tab-content-img"><img class="tab-img" src="__PUBLIC__/images/tab_55.jpg"></span>
+			<span class="tab-content-img"><img class="tab-img" src="__PUBLIC__/images/tab_88.jpg"></span>
 		</div>
 	</div>
 
 	<!--tab for show end-->
 
+
+	<!--news begin-->
+	<div class="tab-show-top-a"><span>新闻动态</span></div>
+	<div id="tab-show-a">
+		<span class="tab-show-rush-a"> </span>
+		<h3 class="active-a">&nbsp;&nbsp;公司要闻&nbsp;&nbsp;</h3>
+		<h3>&nbsp;&nbsp;行业动态&nbsp;&nbsp;</h3>
+
+		<div class="tab-content-a">
+			<img class="tab-img-a" src="__PUBLIC__/images/tab_11.jpg">
+			<img class="tab-img-a" src="__PUBLIC__/images/tab_22.jpg">
+			<img class="tab-img-a" src="__PUBLIC__/images/tab_33.jpg">
+			<img class="tab-img-a" src="__PUBLIC__/images/tab_44.jpg">
+			<img class="tab-img-a" src="__PUBLIC__/images/tab_55.jpg">
+			<img class="tab-img-a" src="__PUBLIC__/images/tab_66.jpg">
+			<img class="tab-img-a" src="__PUBLIC__/images/tab_77.jpg">
+			<img class="tab-img-a" src="__PUBLIC__/images/tab_88.jpg">
+		</div>
+		<div class="tab-img-a">
+			<img class="tab-img-a" src="__PUBLIC__/images/tab_66.jpg">
+			<img class="tab-img-a" src="__PUBLIC__/images/tab_44.jpg">
+			<img class="tab-img-a" src="__PUBLIC__/images/tab_88.jpg">
+			<img class="tab-img-a" src="__PUBLIC__/images/tab_22.jpg">
+			<img class="tab-img-a" src="__PUBLIC__/images/tab_11.jpg">
+			<img class="tab-img-a" src="__PUBLIC__/images/tab_55.jpg">
+			<img class="tab-img-a" src="__PUBLIC__/images/tab_33.jpg">
+			<img class="tab-img-a" src="__PUBLIC__/images/tab_77.jpg">
+		</div>
+	</div>
+	<!--new end-->
+
+
+	<!--show time begin-->
+	<div class="show-time">
+		<img src="__PUBLIC__/images/showtime.jpg" class="show-time-img">
+	</div>
+	<!--show time end-->
+
+
 	<!--table begin-->
 	<div class="tab-show-top"><span>活动需求</span></div>
+	<div class="tab-show-top-title">
+		<h3 id="tab-top-title">&nbsp;&nbsp;活动预约&nbsp;&nbsp;</h3>
+		<h3>&nbsp;&nbsp;活动下单&nbsp;&nbsp;</h3>
+	</div>
 	<div class="table-in">
 		<input class="table-input" type="text" name="name" value="" placeholder="姓名">
 		<input class="table-input" type="text" name="name" value="" placeholder="电话">
