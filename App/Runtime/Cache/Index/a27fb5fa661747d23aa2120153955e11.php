@@ -308,6 +308,15 @@
 	</div>
 	<!--table end-->
 
+	<!--telphone us begin-->
+	<div class="tel">
+		<a href="http://wpa.qq.com/msgrd?v=3&uin=824929588&site=qq&menu=yes" target="_blank"><span class="tel-cir bac-img-one"> </span></a>
+		<a href="tel:13764567708"><span class="tel-cir bac-img-two"> </span></a>
+		<a href="#"><span class="tel-cir bac-img-thr"> </span></a>
+		<a href="#"><span class="tel-cir bac-img-fou"> </span></a>
+	</div>
+	<!--telphone us end-->
+
 	<!-- footer -->
 	<div class="footer">
 		<div class="footer-up">

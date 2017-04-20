@@ -258,6 +258,22 @@ li{list-style-type: none;}
 .table-submit{width: 116px;height: 35px;font-family: "Microsoft YaHei";background-color: #fff;border: 1px solid #3CC8B4;color: #3CC8B4;cursor: pointer;margin-top: 3px;float: right;}
 .table-submit:hover{background-color: #3CC8B4;border: 1px solid #fff;color: #fff;}
 
+
+/*telphone us*/
+.tel{width: 60px;height: 275px;position: fixed;top: 500px;right: 40px;}
+.tel-cir{display: inline-block;width: 60px;height: 60px;margin: 3px 0;border-radius: 50%;cursor: pointer;}
+.tel-cir:hover{background-color: #3CC8B4;
+    -webkit-transition: all 0.2s ease-in-out;  /* Safari and Chrome */
+    -moz-transition: all 0.2s ease-in-out;  /* Firefox 4 */
+    transition: all 0.2s ease-in-out;
+    cursor: pointer;}
+
+.bac-img-one{background: url("../images/qq.png");background-repeat: no-repeat;background-size: 40px 40px;background-color: #312F35;background-position: 9px 10px;}
+.bac-img-two{background: url("../images/tel.png");background-repeat: no-repeat;background-size: 40px 40px;background-color: #312F35;background-position: 9px 10px;}
+.bac-img-thr{background: url("../images/wechat.png");background-repeat: no-repeat;background-size: 40px 40px;background-color: #312F35;background-position: 9px 10px;}
+.bac-img-fou{background: url("../images/v.png");background-repeat: no-repeat;background-size: 40px 40px;background-color: #312F35;background-position: 9px 10px;}
+
+
 /*footer*/
 .footer{margin: 0 auto;width:100%;height:330px;background-color: #23272a;}
 .footer-up{width: 900px;height: 260px;margin: 0 auto;padding-top: 60px;}
