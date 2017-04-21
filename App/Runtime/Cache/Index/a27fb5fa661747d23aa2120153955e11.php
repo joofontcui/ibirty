@@ -35,13 +35,13 @@
 		<!-- navigation -->
 		<div class="navigation">
 			<div class="nav-left">
-				<span class="nav-left-one"><a href="/ibirty/index.php">ibirty</a></span>
-				<span class="nav-left-two"><a href="/ibirty/index.php?s=/Index/AboutUs/index.html">走进立创</a></span>
-				<span class="nav-left-two"><a href="/ibirty/index.php?s=/Index/AboutUs/index.html">新闻动态</a></span>
-				<span class="nav-left-two"><a href="/ibirty/index.php?s=/Index/AboutUs/index.html">经典案例</a></span>
-				<span class="nav-left-two"><a href="/ibirty/index.php?s=/Index/AboutUs/index.html">服务项目</a></span>
-				<span class="nav-left-two"><a href="/ibirty/index.php?s=/Index/AboutUs/index.html">加入立创</a></span>
-				<span class="nav-left-two"><a href="/ibirty/index.php?s=/Index/AboutUs/index.html">活动需求</a></span>
+				<span class="nav-left-one"><a href="/index.php">ibirty</a></span>
+				<span class="nav-left-two"><a href="/index.php?s=/Index/AboutUs/index.html">走进立创</a></span>
+				<span class="nav-left-two"><a href="/index.php?s=/Index/News/index.html">新闻动态</a></span>
+				<span class="nav-left-two"><a href="/index.php?s=/Index/Case/index.html">经典案例</a></span>
+				<span class="nav-left-two"><a href="#service">服务项目</a></span>
+				<span class="nav-left-two"><a href="/index.php?s=/Index/Case/index.html">加入立创</a></span>
+				<span class="nav-left-two"><a href="#table">活动需求</a></span>
 			</div>
 			<div class="nav-right">
 				<!--<input type="button" class="button" value="注册/登录"/>-->
@@ -284,7 +284,7 @@
 
 
 	<!--show time begin-->
-	<div class="tab-show-top-aa"><span>服务项目</span></div>
+	<div class="tab-show-top-aa" id="service"><span>服务项目</span></div>
 	<div class="web-subtitle"><span>SERVICE ITEMS</span></div>
 	<div class="show-time">
 		<img src="__PUBLIC__/images/showtime.jpg" class="show-time-img">
@@ -293,7 +293,7 @@
 
 
 	<!--table begin-->
-	<div class="tab-show-top-aa"><span>活动需求</span></div>
+	<div class="tab-show-top-aa" id="table"><span>活动需求</span></div>
 	<div class="web-subtitle"><span>ACTIVITY REQUIREMENT</span></div>
 	<div class="tab-show-top-title">
 		<h3 id="tab-top-title">活动预约</h3>

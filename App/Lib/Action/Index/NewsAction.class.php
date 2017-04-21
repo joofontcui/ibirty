@@ -1,5 +1,5 @@
 <?php
-	class LoginAction extends Action{
+	class NewsAction extends Action{
 		Public function index(){
 			$this->display();
 		}

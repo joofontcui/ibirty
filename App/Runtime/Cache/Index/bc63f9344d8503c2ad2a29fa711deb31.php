@@ -2,8 +2,8 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>走进立创</title>
-	<link rel="stylesheet" type="text/css" href="__PUBLIC__/css/aboutUs.min.css">
+	<title>经典案例</title>
+	<link rel="stylesheet" type="text/css" href="__PUBLIC__/css/case.min.css">
 	<script type='text/javascript' src='__PUBLIC__/js/jquery-1.11.1.min.js'></script>
 	<script type='text/javascript' src='__PUBLIC__/js/jquery.particleground.min.js'></script>
 	<script type='text/javascript' src='__PUBLIC__/js/demo.js'></script>
