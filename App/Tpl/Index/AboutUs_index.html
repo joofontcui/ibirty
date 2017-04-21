@@ -4,6 +4,9 @@
 	<meta charset="UTF-8">
 	<title>走进立创</title>
 	<link rel="stylesheet" type="text/css" href="__PUBLIC__/css/aboutUs.min.css">
+	<script type='text/javascript' src='__PUBLIC__/js/jquery-1.11.1.min.js'></script>
+	<script type='text/javascript' src='__PUBLIC__/js/jquery.particleground.min.js'></script>
+	<script type='text/javascript' src='__PUBLIC__/js/demo.js'></script>
 </head>
 <body>
 	<!-- header -->
@@ -12,13 +15,13 @@
 		<!-- navigation -->
 		<div class="navigation">
 			<div class="nav-left">
-				<span class="nav-left-one">ibirty</span>
-				<span class="nav-left-two">走进立创</span>
-				<span class="nav-left-two">新闻动态</span>
-				<span class="nav-left-two">经典案例</span>
-				<span class="nav-left-two">服务项目</span>
-				<span class="nav-left-two">加入立创</span>
-				<span class="nav-left-two">活动需求</span>
+				<span class="nav-left-one"><a href="/ibirty/index.php">ibirty</a></span>
+				<span class="nav-left-two"><a href="/ibirty/index.php?s=/Index/AboutUs/index.html">走进立创</a></span>
+				<span class="nav-left-two"><a href="/ibirty/index.php?s=/Index/AboutUs/index.html">新闻动态</a></span>
+				<span class="nav-left-two"><a href="/ibirty/index.php?s=/Index/AboutUs/index.html">经典案例</a></span>
+				<span class="nav-left-two"><a href="/ibirty/index.php?s=/Index/AboutUs/index.html">服务项目</a></span>
+				<span class="nav-left-two"><a href="/ibirty/index.php?s=/Index/AboutUs/index.html">加入立创</a></span>
+				<span class="nav-left-two"><a href="/ibirty/index.php?s=/Index/AboutUs/index.html">活动需求</a></span>
 			</div>
 			<div class="nav-right">
 				<!--<input type="button" class="button" value="注册/登录"/>-->
@@ -32,11 +35,15 @@
 
 	<!--column begin-->
 	<div class="column">
-		<div class="column-in">
-			<img src="__PUBLIC__/images/content-banner.png">
+		<div id="particles">
+			<div class="intro">
+
+			</div>
 		</div>
 	</div>
 	<!--column end-->
+
+	<div class="column-in-img"><img src="__PUBLIC__/images/ad-logo.png"></div>
 
 	<div class="column-in-title">
 		<span class="column-in-one color-blue">全部案例</span>

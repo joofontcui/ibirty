@@ -35,13 +35,13 @@
 		<!-- navigation -->
 		<div class="navigation">
 			<div class="nav-left">
-				<span class="nav-left-one">ibirty</span>
-				<span class="nav-left-two">走进立创</span>
-				<span class="nav-left-two">新闻动态</span>
-				<span class="nav-left-two">经典案例</span>
-				<span class="nav-left-two">服务项目</span>
-				<span class="nav-left-two">加入立创</span>
-				<span class="nav-left-two">活动需求</span>
+				<span class="nav-left-one"><a href="/ibirty/index.php">ibirty</a></span>
+				<span class="nav-left-two"><a href="/ibirty/index.php?s=/Index/AboutUs/index.html">走进立创</a></span>
+				<span class="nav-left-two"><a href="/ibirty/index.php?s=/Index/AboutUs/index.html">新闻动态</a></span>
+				<span class="nav-left-two"><a href="/ibirty/index.php?s=/Index/AboutUs/index.html">经典案例</a></span>
+				<span class="nav-left-two"><a href="/ibirty/index.php?s=/Index/AboutUs/index.html">服务项目</a></span>
+				<span class="nav-left-two"><a href="/ibirty/index.php?s=/Index/AboutUs/index.html">加入立创</a></span>
+				<span class="nav-left-two"><a href="/ibirty/index.php?s=/Index/AboutUs/index.html">活动需求</a></span>
 			</div>
 			<div class="nav-right">
 				<!--<input type="button" class="button" value="注册/登录"/>-->
