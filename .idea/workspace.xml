@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38a3a4e3-9139-4238-b689-d388d0766b1e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/images/news_img.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/images/work_img.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/App/Runtime/Cache/Index/a27fb5fa661747d23aa2120153955e11.php" afterPath="$PROJECT_DIR$/App/Runtime/Cache/Index/a27fb5fa661747d23aa2120153955e11.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/images/content-banner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Lib/Action/Index/AboutUsAction.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/App/Tpl/Index/AboutUs_index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/css/aboutUs.min.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/App/Runtime/Logs/17_04_20.log" afterPath="$PROJECT_DIR$/App/Runtime/Logs/17_04_20.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public/css/index.min.css" afterPath="$PROJECT_DIR$/Public/css/index.min.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -31,8 +30,8 @@
       <file leaf-file-name="Index_index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/App/Tpl/Index/Index_index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
-              <caret line="253" column="49" lean-forward="false" selection-start-line="253" selection-start-column="38" selection-end-line="253" selection-end-column="49" />
+            <state relative-caret-position="399">
+              <caret line="161" column="96" lean-forward="false" selection-start-line="161" selection-start-column="89" selection-end-line="161" selection-end-column="96" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -46,11 +45,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.min.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.min.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Public/css/index.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="243" column="110" lean-forward="false" selection-start-line="243" selection-start-column="110" selection-end-line="243" selection-end-column="110" />
+            <state relative-caret-position="475">
+              <caret line="209" column="97" lean-forward="true" selection-start-line="209" selection-start-column="97" selection-end-line="209" selection-end-column="97" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AboutUs_index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App/Tpl/Index/AboutUs_index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="35" column="58" lean-forward="false" selection-start-line="35" selection-start-column="58" selection-end-line="35" selection-end-column="58" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="aboutUs.min.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Public/css/aboutUs.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="371">
+              <caret line="42" column="209" lean-forward="false" selection-start-line="42" selection-start-column="209" selection-end-line="42" selection-end-column="209" />
               <folding />
             </state>
           </provider>
@@ -60,14 +79,9 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>container</find>
-      <find>nav</find>
-      <find>.nav</find>
       <find>cla-cir-cont</find>
       <find>tab-show-rush-a</find>
       <find>tab-show-top-title1</find>
-      <find>tab-img</find>
-      <find>tab-content-img</find>
       <find>text</find>
       <find>新闻动态</find>
       <find>tab-show-a</find>
@@ -90,6 +104,11 @@
       <find>active</find>
       <find>background</find>
       <find>nav-left-two</find>
+      <find>delivery-a-one</find>
+      <find>tab-content-img</find>
+      <find>delivery-a</find>
+      <find>tab-img</find>
+      <find>column</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -101,6 +120,9 @@
         <option value="$PROJECT_DIR$/App/Conf/config.php" />
         <option value="$PROJECT_DIR$/App/Tpl/Index/Index_index.html" />
         <option value="$PROJECT_DIR$/Public/css/index.min.css" />
+        <option value="$PROJECT_DIR$/App/Lib/Action/Index/AboutUsAction.class.php" />
+        <option value="$PROJECT_DIR$/App/Tpl/Index/AboutUs_index.html" />
+        <option value="$PROJECT_DIR$/Public/css/aboutUs.min.css" />
       </list>
     </option>
   </component>
@@ -111,10 +133,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-43" />
-    <option name="y" value="138" />
-    <option name="width" value="1754" />
-    <option name="height" value="950" />
+    <option name="x" value="292" />
+    <option name="y" value="40" />
+    <option name="width" value="1630" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -135,7 +157,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -161,10 +182,6 @@
               <option name="myItemId" value="Public" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -181,20 +198,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ibirty" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ibirty" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Public" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -284,12 +287,61 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Conf" />
+              <option name="myItemId" value="Lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ibirty" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ibirty" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="App" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Action" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Index" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ibirty" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ibirty" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="App" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Action" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -304,6 +356,11 @@
       <recent name="D:\PHP\apache\htdocs\ibirty\Public\images" />
       <recent name="D:\PHP\apache\htdocs\ibirty\Public\js" />
       <recent name="D:\PHP\apache\htdocs\ibirty\Public\css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PHP\apache\htdocs\ibirty\Public\css" />
+      <recent name="D:\PHP\apache\htdocs\ibirty\App\Tpl\Index" />
+      <recent name="D:\PHP\apache\htdocs\ibirty\App\Lib\Action\Index" />
     </key>
   </component>
   <component name="RunManager">
@@ -388,22 +445,24 @@
       <workItem from="1492494662675" duration="10500000" />
       <workItem from="1492574508740" duration="22574000" />
       <workItem from="1492650638012" duration="4447000" />
+      <workItem from="1492740400313" duration="4921000" />
+      <workItem from="1492761469151" duration="3156000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74414000" />
+    <option name="totallyTimeSpent" value="82491000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-43" y="138" width="1754" height="950" extended-state="0" />
+    <frame x="292" y="40" width="1630" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14801864" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12311558" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28853267" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28770596" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -419,6 +478,9 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.php" />
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -427,6 +489,54 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/App/Tpl/Index/Index_index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#li#2;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#13995#14001#1" expanded="true" />
+            <element signature="e#14303#14309#1" expanded="true" />
+            <element signature="e#14566#14572#1" expanded="true" />
+            <element signature="e#14875#14881#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/css/index.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3933">
+          <caret line="207" column="0" lean-forward="false" selection-start-line="207" selection-start-column="0" selection-end-line="209" selection-end-column="97" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Tpl/Index/AboutUs_index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="43" column="39" lean-forward="false" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Tpl/Index/Index_index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#li#2;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#13995#14001#1" expanded="true" />
+            <element signature="e#14303#14309#1" expanded="true" />
+            <element signature="e#14566#14572#1" expanded="true" />
+            <element signature="e#14875#14881#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/App/Tpl/Index/Index_index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2907">
@@ -668,10 +778,24 @@
     <entry file="file://$PROJECT_DIR$/Public/js/jquery-1.11.0.min.js" />
     <entry file="file://$PROJECT_DIR$/Public/css/bootstrap.min.css" />
     <entry file="file://$PROJECT_DIR$/Public/js/bootstrap.min.js" />
+    <entry file="file://$PROJECT_DIR$/App/Lib/Action/Index/AboutUsAction.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="2" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Lib/Action/Index/IndexAction.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="2" lean-forward="false" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/App/Tpl/Index/Index_index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="253" column="49" lean-forward="false" selection-start-line="253" selection-start-column="38" selection-end-line="253" selection-end-column="49" />
+        <state relative-caret-position="399">
+          <caret line="161" column="96" lean-forward="false" selection-start-line="161" selection-start-column="89" selection-end-line="161" selection-end-column="96" />
           <folding>
             <element signature="n#style#0;n#img#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -686,8 +810,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Public/css/index.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="243" column="110" lean-forward="false" selection-start-line="243" selection-start-column="110" selection-end-line="243" selection-end-column="110" />
+        <state relative-caret-position="475">
+          <caret line="209" column="97" lean-forward="true" selection-start-line="209" selection-start-column="97" selection-end-line="209" selection-end-column="97" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Tpl/Index/AboutUs_index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="35" column="58" lean-forward="false" selection-start-line="35" selection-start-column="58" selection-end-line="35" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/css/aboutUs.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="42" column="209" lean-forward="false" selection-start-line="42" selection-start-column="209" selection-end-line="42" selection-end-column="209" />
           <folding />
         </state>
       </provider>
