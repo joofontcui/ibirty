@@ -240,8 +240,8 @@ li{list-style-type: none;}
 .color-four{background-color: #7671F2;}
 .color-five{background-color: #5CD8FE;}
 .color-six{background-color: #D86F52;}
-.color-seven{background-color: #D78D8C;}
-.color-eight{background-color: #4AAEA4;}
+.color-seven{background-color: #D78D8C;background: url("../images/news_img.jpg");background-repeat: no-repeat;}
+.color-eight{background-color: #4AAEA4;background: url("../images/work_img.jpg");background-repeat: no-repeat;}
 
 /*show-time*/
 .show-time{width: 1180px;margin: 0 auto;}

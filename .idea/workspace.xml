@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38a3a4e3-9139-4238-b689-d388d0766b1e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/images/qq.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/images/tel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/images/v.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/images/wechat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/images/news_img.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Public/images/work_img.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/App/Runtime/Cache/Index/a27fb5fa661747d23aa2120153955e11.php" afterPath="$PROJECT_DIR$/App/Runtime/Cache/Index/a27fb5fa661747d23aa2120153955e11.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/App/Tpl/Index/Index_index.html" afterPath="$PROJECT_DIR$/App/Tpl/Index/Index_index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/App/Runtime/Logs/17_04_20.log" afterPath="$PROJECT_DIR$/App/Runtime/Logs/17_04_20.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Public/css/index.min.css" afterPath="$PROJECT_DIR$/Public/css/index.min.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -30,11 +28,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Index_index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Index_index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/App/Tpl/Index/Index_index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="409">
-              <caret line="315" column="66" lean-forward="true" selection-start-line="315" selection-start-column="66" selection-end-line="315" selection-end-column="66" />
+            <state relative-caret-position="151">
+              <caret line="253" column="49" lean-forward="false" selection-start-line="253" selection-start-column="38" selection-end-line="253" selection-end-column="49" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -48,11 +46,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.min.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.min.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Public/css/index.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
-              <caret line="262" column="66" lean-forward="false" selection-start-line="262" selection-start-column="66" selection-end-line="262" selection-end-column="66" />
+            <state relative-caret-position="245">
+              <caret line="243" column="110" lean-forward="false" selection-start-line="243" selection-start-column="110" selection-end-line="243" selection-end-column="110" />
               <folding />
             </state>
           </provider>
@@ -101,8 +99,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/App/Conf/config.php" />
-        <option value="$PROJECT_DIR$/Public/css/index.min.css" />
         <option value="$PROJECT_DIR$/App/Tpl/Index/Index_index.html" />
+        <option value="$PROJECT_DIR$/Public/css/index.min.css" />
       </list>
     </option>
   </component>
@@ -113,10 +111,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="108" />
-    <option name="y" value="94" />
-    <option name="width" value="1809" />
-    <option name="height" value="992" />
+    <option name="x" value="-43" />
+    <option name="y" value="138" />
+    <option name="width" value="1754" />
+    <option name="height" value="950" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -389,23 +387,23 @@
       <workItem from="1492488403963" duration="5011000" />
       <workItem from="1492494662675" duration="10500000" />
       <workItem from="1492574508740" duration="22574000" />
-      <workItem from="1492650638012" duration="2722000" />
+      <workItem from="1492650638012" duration="4447000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72689000" />
+    <option name="totallyTimeSpent" value="74414000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="108" y="94" width="1809" height="992" extended-state="0" />
+    <frame x="-43" y="138" width="1754" height="950" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1434218" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14801864" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45394737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28853267" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -670,18 +668,10 @@
     <entry file="file://$PROJECT_DIR$/Public/js/jquery-1.11.0.min.js" />
     <entry file="file://$PROJECT_DIR$/Public/css/bootstrap.min.css" />
     <entry file="file://$PROJECT_DIR$/Public/js/bootstrap.min.js" />
-    <entry file="file://$PROJECT_DIR$/Public/css/index.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="262" column="66" lean-forward="false" selection-start-line="262" selection-start-column="66" selection-end-line="262" selection-end-column="66" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/App/Tpl/Index/Index_index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="315" column="66" lean-forward="true" selection-start-line="315" selection-start-column="66" selection-end-line="315" selection-end-column="66" />
+        <state relative-caret-position="151">
+          <caret line="253" column="49" lean-forward="false" selection-start-line="253" selection-start-column="38" selection-end-line="253" selection-end-column="49" />
           <folding>
             <element signature="n#style#0;n#img#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -691,6 +681,14 @@
             <element signature="e#14566#14572#1" expanded="true" />
             <element signature="e#14875#14881#1" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/css/index.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="243" column="110" lean-forward="false" selection-start-line="243" selection-start-column="110" selection-end-line="243" selection-end-column="110" />
+          <folding />
         </state>
       </provider>
     </entry>
