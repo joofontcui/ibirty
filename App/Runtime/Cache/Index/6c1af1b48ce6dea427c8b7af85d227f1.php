@@ -15,13 +15,13 @@
 		<!-- navigation -->
 		<div class="navigation">
 			<div class="nav-left">
-				<span class="nav-left-one"><a href="/index.php">ibirty</a></span>
-				<span class="nav-left-two"><a href="/index.php?s=/Index/AboutUs/index.html">走进立创</a></span>
-				<span class="nav-left-two"><a href="/index.php?s=/Index/AboutUs/index.html">新闻动态</a></span>
-				<span class="nav-left-two"><a href="/index.php?s=/Index/AboutUs/index.html">经典案例</a></span>
-				<span class="nav-left-two"><a href="/index.php?s=/Index/AboutUs/index.html">服务项目</a></span>
-				<span class="nav-left-two"><a href="/index.php?s=/Index/AboutUs/index.html">加入立创</a></span>
-				<span class="nav-left-two"><a href="/index.php?s=/Index/AboutUs/index.html">活动需求</a></span>
+				<a href="/index.php"><span class="nav-left-one">ibirty</span></a>
+				<a href="/index.php?s=/Index/AboutUs/index.html"><span class="nav-left-two">走进立创</span></a>
+				<a href="/index.php?s=/Index/News/index.html"><span class="nav-left-two">新闻动态</span></a>
+				<a href="/index.php?s=/Index/Case/index.html"><span class="nav-left-two">经典案例</span></a>
+				<a href="#service"><span class="nav-left-two">服务项目</span></a>
+				<a href="/index.php?s=/Index/Join/index.html"><span class="nav-left-two">加入立创</span></a>
+				<a href="/index.php?s=/Index/Table/index.html"><span class="nav-left-two">活动需求</span></a>
 			</div>
 			<div class="nav-right">
 				<!--<input type="button" class="button" value="注册/登录"/>-->
